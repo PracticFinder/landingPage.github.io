@@ -260,16 +260,13 @@ Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo
 - <p> Los usuarios deben poder personalizar sus preferencias de notificación y recibir alertas relevantes. </p>
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-<b>¿Cómo debería verse y comportarse nuestro servicio?</b>
 
-- <p> El motor de búsqueda debe presentarse con una interfaz limpia y fácil de usar, permitiendo a los usuarios ajustar sus criterios de búsqueda de manera intuitiva. </p>
-- <p> Los perfiles de usuario deben ser fáciles de crear y editar, con un diseño limpio y la posibilidad de cargar currículos y portafolios. </p>
-- <p>Las oportunidades validadas deben mostrar un sello de autenticidad en la plataforma para generar confianza entre los usuarios. </p>
-- <p> Debe haber opciones de mensajería en tiempo real, notificaciones de estado de solicitud y capacidad de programar entrevistas. </p>
-- <p> Los recursos deben estar organizados en secciones fáciles de navegar, con enlaces relevantes en las páginas de oportunidades. </p>
-- <p> Debe haber secciones de calificación y comentarios en los perfiles de usuarios y empresas, con la capacidad de ver opiniones de otros usuarios. </p>
-- <p> El calendario debe ser fácil de usar, con opciones de programación y visualización de trabajos pasados y futuros. </p>
-- <p> Los usuarios deben poder personalizar sus preferencias de notificación y recibir alertas relevantes. </p>
+- <p> Creemos que nuestra aplicación será de gran ayuda para los practicantes que busquen obtener experiencia laboral para poder graduarse. Sabremos que lo logramos cuando las reseñas hechas por los practicantes sobre la aplicación sean más del 70% positivas. </p>
+- <p> Creemos que la aplicación será útil para los empleadores que buscan practicantes en nuestra plataforma. Sabremos que tuvimos éxito cuando más del 60% de usuarios empleadores encuestados nos informen que están satisfechos con la app. </p>
+- <p>Creemos que los practicantes podrán encontrar prácticas con respecto a su área en alguna empresa. Sabremos que tuvimos éxito cuando más del 50% de usuarios practicantes pacten una fecha con los usuarios empleadores. </p>
+- <p> Creemos que nuestra aplicación será utilizada por personas entre 18 a 35 años, ya que nuestro público objetivo son los estudiantes universitarios. Sabremos que tuvimos éxito cuando el promedio de usuarios pertenezca al rango de edades mencionado. </p>
+- <p> Creemos que el implementar un chat entre ambos usuarios será de gran utilidad. Sabremos que tuvimos éxito cuando los practicantes y empleadores califiquen 4 o más de 5 estrellas al chat de comunicación. </p>
+- <p> Creemos que la aplicación será intuitiva para los estudiantes y arrendadores. Sabremos que tuvimos éxito cuando más del 75% de usuarios encuestados se sientan satisfechos con la interfaz de usuario. </p>
 
 #### 1.2.2.4. Lean UX Canvas.
 <td align="center">
@@ -478,7 +475,7 @@ El diseño de entrevista es una gran manera eficaz de conocer a nuestro público
     <br>Enlace de entrevista:
     <br>La entrevista con César proporcionó información valiosa sobre los desafíos que enfrentan los estudiantes al buscar prácticas. Uno de los desafíos principales es que muchas empresas requieren experiencia previa o recomendaciones, lo que puede dificultar la búsqueda para estudiantes sin experiencia. Además, el proceso de comunicación con las empresas a menudo puede ser lento y complicado. César expresó interés en una aplicación web que facilite la búsqueda de prácticas al conectar a estudiantes con empresas de manera más eficiente. También destacó la importancia de la descripción del currículum en la aplicación para ayudar a las empresas a tomar decisiones informadas. Sin embargo, mencionó que una posible preocupación podría ser la mayor competencia entre los estudiantes debido a la mayor accesibilidad de las oportunidades de prácticas.</p>
 
-    <p><b>ENTREVISTA 2</b>*<br>
+    <p><b>ENTREVISTA 2</b><br>
     <u>Datos del entrevistado:</u><br>
     Nombre: Britney Ramos<br>
     Edad: 19 años<br>
@@ -503,16 +500,14 @@ El diseño de entrevista es una gran manera eficaz de conocer a nuestro público
     <br>Enlace de entrevista:
     <br>La entrevista a Fabio nos proporcionó información valiosa sobre cuáles son las dificultades y obstáculos que se les presentan a los empleadores a la hora de buscar y seleccionar practicantes. Muchas de las complicaciones que se le presentan son preparar preguntas relevantes para el puesto de trabajo y a la vez crear un ambiente agradable para el entrevistado, al realizar una evaluación puede ser compleja por el hecho de que se debe establecer un criterio de evaluación con el fin de evaluar sus habilidades técnicas, teóricas y blandas. Usualmente se comunican por correo electrónico o llamadas telefónicas entre 1 semana a 1 mes, dependiendo del puesto de trabajo y la cantidad de postulantes. Por último, nos mencionas cuales son los puntos más importantes a la hora de seleccionar al postulante más apto, como sus decisiones, habilidades, debe tener una formación educativa adecuada para el puesto, también poseer una personalidad y valores compatibles con la empresa.</p>
 
-<p><b>ENTREVISTA 2</b><br>
+    <p><b>ENTREVISTA 2</b><br>
     <u>Datos del entrevistado:</u><br>
     Nombre: Miguel Ángel<br>
     Edad: 25 años<br>
-
-[![Captura-de-pantalla-2023-09-07-153721.png](https://i.postimg.cc/QMrdwJFQ/Captura-de-pantalla-2023-09-07-153721.png)](https://postimg.cc/RWXmnfQh)
-
-Enlace de entrevista: https://drive.google.com/file/d/1HovqwLyKrFr9VJ15JZwF0L277k0ww8Re/view?usp=sharing
-
-En la entrevista que nos brindó Miguel Ángel nos proporcionó su opinión acerca de la contratación de nuevos talentos emergentes en su empresa. Ellos están dispuestos a darle capacitaciones mediante un mentor el cual se encargará de ayudarlo a insertarse al mundo laboral. Nos menciona que es un poco difícil encontrar talentos para ciertas vacantes y que una plataforma como la nuestra le sería muy útil.</p>
+    Análisis:
+    <br>[![Captura-de-pantalla-2023-09-07-153721.png](https://i.postimg.cc/QMrdwJFQ/Captura-de-pantalla-2023-09-07-153721.png)](https://postimg.cc/RWXmnfQh)
+    <br>Enlace de entrevista: https://drive.google.com/file/d/1HovqwLyKrFr9VJ15JZwF0L277k0ww8Re/view?usp=sharing
+    <br>En la entrevista que nos brindó Miguel Ángel nos proporcionó su opinión acerca de la contratación de nuevos talentos emergentes en su empresa. Ellos están            dispuestos a darle capacitaciones mediante un mentor el cual se encargará de ayudarlo a insertarse al mundo laboral. Nos menciona que es un poco difícil              encontrar talentos para ciertas vacantes y que una plataforma como la nuestra le sería muy útil.</p>
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -522,12 +517,12 @@ En la entrevista que nos brindó Miguel Ángel nos proporcionó su opinión acer
 ### 2.3.1. User Personas.
 
 User Practicante
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149137885447082044/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149473672042655744/u1.png" width="800px">
 
 <br>
 
 User Empleador
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149138113717874828/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149473687867752488/u2.png" width="800px">
 
 ### 2.3.2. User Task Matrix.
 En esta sección presentamos el user task matrix, la cual se centra en los segmentos objetivos (practicante y empleador), que nos permitirá identificar las tareas y objetivos por cumplir de cada segmento objetivo. Para la frecuencia se han considerado cinco opciones: never, rarely, sometimes, often, always; y para la importancia tres opciones: low, medium, high. <br>
