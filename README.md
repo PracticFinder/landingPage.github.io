@@ -2320,8 +2320,51 @@ Representa los comentarios y calificaciones de los estudiantes sobre una oferta 
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
+A continuación, se procederá a describir cada uno de los productos de software que han sido empleados en el proyecto. Este apartado resultará de utilidad para facilitar que los actuales y futuros desarrolladores puedan colaborar en el ciclo de vida del proyecto. 
 ### 5.1.1. Software Development Environment Configuration.
+**Project Management**
+
+- **Discord y WhatsApp (<https://discord.com/> ) (<https://www.whatsapp.com/?lang=es>)**
+
+Discord y WhatsApp han sido los medios principales de comunicación entre los miembros del grupo, donde Discord ha destacado ya que contiene funcionalidades adicionales para organizar grupos de estudio y de trabajo.
+
+- **Trello (<https://trello.com/es>)**
+
+Trello ha permitido la organización de tareas a realizar en el proyecto, además del desarrollo del product backlog.
+
+**Product UX/UI Design**
+
+- **UXPressia (<https://uxpressia.com/> )**
+
+Se utilizó UXPressia para el desarrollo de los diagramas user personas, user journey mapping, empathy mapping e impact map.
+
+- **Pigment (<https://pigment.shapefactory.co/> )**
+
+Pigment ha apoyado en la selección de la paleta de colores para el desarrollo del diseño de la web.
+
+- **Figma (<https://www.figma.com/> )**
+
+Se ha utilizado Figma para el desarrollo de los wireframes y prototipos del landing page y aplicación web, tanto en dispositivos de escritorio como de móvil.
+
+- **Miro (<https://miro.com/es/>)**
+
+Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+
+- **Lucidchart (<https://lucid.app/>)**
+
+Lucidchart ha sido empleado en el desarrollo de los diagramas de base de datos y diagrama de clases.
+
+**Software Development** 
+
+- **Visual Studio Code (<https://code.visualstudio.com/> )** 
+
+Visual Studio Code es el que emplearemos para el desarrollo del landing page del proyecto.
+
+- **Github y Git Bash (<https://github.com/> ) (<https://git-scm.com/downloads> )**
+
+Github y Git bash nos permitirán el control de versiones del código y el desarrollo colaborativo del proyecto.
 ### 5.1.2. Source Code Management.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
