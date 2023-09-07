@@ -503,6 +503,18 @@ El diseño de entrevista es una gran manera eficaz de conocer a nuestro público
     <br>Enlace de entrevista:
     <br>La entrevista a Fabio nos proporcionó información valiosa sobre cuáles son las dificultades y obstáculos que se les presentan a los empleadores a la hora de buscar y seleccionar practicantes. Muchas de las complicaciones que se le presentan son preparar preguntas relevantes para el puesto de trabajo y a la vez crear un ambiente agradable para el entrevistado, al realizar una evaluación puede ser compleja por el hecho de que se debe establecer un criterio de evaluación con el fin de evaluar sus habilidades técnicas, teóricas y blandas. Usualmente se comunican por correo electrónico o llamadas telefónicas entre 1 semana a 1 mes, dependiendo del puesto de trabajo y la cantidad de postulantes. Por último, nos mencionas cuales son los puntos más importantes a la hora de seleccionar al postulante más apto, como sus decisiones, habilidades, debe tener una formación educativa adecuada para el puesto, también poseer una personalidad y valores compatibles con la empresa.</p>
 
+<p><b>ENTREVISTA 2</b><br>
+    <u>Datos del entrevistado:</u><br>
+    Nombre: Miguel Ángel<br>
+    Edad: 25 años<br>
+
+[![Captura-de-pantalla-2023-09-07-153721.png](https://i.postimg.cc/QMrdwJFQ/Captura-de-pantalla-2023-09-07-153721.png)](https://postimg.cc/RWXmnfQh)
+
+Enlace de entrevista: https://drive.google.com/file/d/1HovqwLyKrFr9VJ15JZwF0L277k0ww8Re/view?usp=sharing
+
+En la entrevista que nos brindó Miguel Ángel nos proporcionó su opinión acerca de la contratación de nuevos talentos emergentes en su empresa. Ellos están dispuestos a darle capacitaciones mediante un mentor el cual se encargará de ayudarlo a insertarse al mundo laboral. Nos menciona que es un poco difícil encontrar talentos para ciertas vacantes y que una plataforma como la nuestra le sería muy útil.</p>
+
+
 ### 2.2.3. Análisis de entrevistas.
 
 
