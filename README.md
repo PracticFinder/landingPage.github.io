@@ -1787,33 +1787,526 @@ La notificación contendrá información sobre el cambio en el estado y una brev
 |27|HU27|Reportar problemas o dar retroalimentación sobre la plataforma.|Como estudiante quiero reportar problemas o dar retroalimentación sobre la plataforma, para ayudar poder resolver los problemas que existen|3|
 
 # Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+
+### **Branding**
+
+El logo principal está conformado por el nombre “PractiFinder”. En nuestro logo  predomina el color morado y blanco, que representa la creatividad de nuestra idea y la simplicidad de la página.
+
+[![branding.png](https://i.postimg.cc/W4r6zGg4/branding.png)](https://postimg.cc/4KfhFh8C)
+
+### **Typography**
+
+La tipografía empleada es Dosis en los pesos de 400 y 500 y luego la topografía Poppins en los pesos de 400 y 700. Ambas obtenidas de Google Fonts.
+
+[![fonts.png](https://i.postimg.cc/nMbnFtJr/fonts.png)](https://postimg.cc/K3N6fw4h)
+
 ### 4.1.2. Web Style Guidelines.
+
+Se utilizó la tendencia de web functional minimalism donde predomina el color morado con blanco para una visualización limpia y contraste con los demás elementos. También usamos imágenes de alta definición para no perder calidad en caso se ingrese de dispositivos de alta resolución.
+
+[![land.png](https://i.postimg.cc/pLBkJYy1/land.png)](https://postimg.cc/G4HkcDFk)
+
 ## 4.2. Information Architecture.
+
 ### 4.2.1. Organization Systems.
+
+En la página de inicio de este proyecto web, se han aplicado varios patrones de organización visual para presentar la información de manera efectiva. Estos patrones se centran en la jerarquía visual, la categorización y la presentación de características del producto.
+
+Se ha implementado un patrón de "visual hierarchy" para organizar el contenido de texto. La importancia de las oraciones varía según el tamaño de la fuente, lo que crea un contraste visual y facilita la identificación de la información clave. Este enfoque de jerarquía visual garantiza que los visitantes puedan identificar rápidamente la información relevante y navegar por el contenido de manera eficiente.
+
 ### 4.2.2. Labeling Systems.
+
+Hemos hecho uso de algunos íconos para resaltar vínculos y facilitar al usuario el uso de nuestra plataforma web.
+
+[![labeling.png](https://i.postimg.cc/rynkQxRs/labeling.png)](https://postimg.cc/4n9q3K5R)
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page:**
+
+[![seo.png](https://i.postimg.cc/bdcL3mQ4/seo.png)](https://postimg.cc/y3jFNXpT)
+
+**Web Application:**
+
+[![web-seo.png](https://i.postimg.cc/Kc6y6FQh/web-seo.png)](https://postimg.cc/jC49fpGM)
+
+
 ### 4.2.4. Searching Systems.
+
+Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios en búsqueda de sus primeras prácticas o empleos ellos podrán filtrar por ubicación, tipo de industria, empresas en específico y más. En el caso de los contratistas podrán filtrar por nivel de estudios, habilidades, logros, carrera etc.
+
 ### 4.2.5. Navigation Systems.
+
+[![Navigation.png](https://i.postimg.cc/FRFKJv8B/Navigation.png)](https://postimg.cc/f3Fs6Gwc)
+
 ## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
+
+[Link Figma Landing Page Wireframes](https://www.figma.com/file/2C7IpjuPMcsG1XJggpiipo/WIREFRAME-LANDING-PAGE?type=design&node-id=0%3A1&mode=design&t=6VDy8PUwn9x6LI2t-1)
+
+[![Frame1.png](https://i.postimg.cc/Y9Jys6YK/Frame1.png)](https://postimg.cc/62f07GMY)
+
+[![Frame1-1.png](https://i.postimg.cc/Nf8Pdr0S/Frame1-1.png)](https://postimg.cc/jL5X52P4)
+
+[![Frame2.png](https://i.postimg.cc/zvKPZyFL/Frame2.png)](https://postimg.cc/Lg4Vj67R)
+
+[![Frame3.png](https://i.postimg.cc/kgnYzX64/Frame3.png)](https://postimg.cc/zVckRNkZ)
+
+[![Frame2.png](https://i.postimg.cc/zvKPZyFL/Frame2.png)](https://postimg.cc/Lg4Vj67R)
+
+[![Frame5.png](https://i.postimg.cc/rpsnyn92/Frame5.png)](https://postimg.cc/f34jBvF8)
+
+[![Frame.png](https://i.postimg.cc/fWC95zN5/Frame.png)](https://postimg.cc/5jHy2MjF)
+
+[![Frame7.png](https://i.postimg.cc/T3L5RnWH/Frame7.png)](https://postimg.cc/87Gz4J4h)
+
+[![Framew.png](https://i.postimg.cc/fyVDxfsG/Framew.png)](https://postimg.cc/WqcBVrh8)
+
+[![Frame-226.png](https://i.postimg.cc/fbHxyMR8/Frame-226.png)](https://postimg.cc/rdrdYXW4)
+
+[![Frame-227.png](https://i.postimg.cc/KzRtgCKx/Frame-227.png)](https://postimg.cc/k6P201Fp)
+
+[![Frame-229.png](https://i.postimg.cc/43F9ZwWM/Frame-229.png)](https://postimg.cc/XZdJkKSc)
+
+[![Frame-223.png](https://i.postimg.cc/ZYNdt8p7/Frame-223.png)](https://postimg.cc/7bx6STB0)
+
+[![Frame-220.png](https://i.postimg.cc/yYzSVDTV/Frame-220.png)](https://postimg.cc/qgj7wMYY)
+
+[![Frame-224.png](https://i.postimg.cc/Nf72LQNR/Frame-224.png)](https://postimg.cc/kBGgpPP5)
+
+[![Frame-221.png](https://i.postimg.cc/3w6dzNRQ/Frame-221.png)](https://postimg.cc/mcYLHbCm)
+
+
 ### 4.3.2. Landing Page Mock-up.
+
+[Link Figma Landing Page Mock-Up Mobile and Desktop](https://www.figma.com/file/clj6UPzVNB7w7uk23Wz7KO/Landing-Page-Mock-Ups?type=design&node-id=0%3A1&mode=design&t=kTYlSKwYVqLtNBhY-1)
+
+[![land.png](https://i.postimg.cc/pLBkJYy1/land.png)](https://postimg.cc/G4HkcDFk)
+
+[![bienvenido.png](https://i.postimg.cc/Ssf74czz/bienvenido.png)](https://postimg.cc/Q9VWk9mX)
+
+[![nuestros-servicios.png](https://i.postimg.cc/qBQXZXTP/nuestros-servicios.png)](https://postimg.cc/BtLKjFtp)
+
+[![talento.png](https://i.postimg.cc/d3SCQ6QD/talento.png)](https://postimg.cc/sG7xwphR)
+
+[![Captura.png](https://i.postimg.cc/BQXDYrNF/Captura.png)](https://postimg.cc/mtWth6vZ)
+
+[![Captura-de-pantalla-2023-09-07-131322.png](https://i.postimg.cc/Qd77sc2x/Captura-de-pantalla-2023-09-07-131322.png)](https://postimg.cc/PCtJQvfB)
+
+[![Captura-de-pantalla-2023-09-07-131342.png](https://i.postimg.cc/3rb0vL7x/Captura-de-pantalla-2023-09-07-131342.png)](https://postimg.cc/XXdvMkpR)
+
+[![Captura-de-pantalla-2023-09-07-131355.png](https://i.postimg.cc/wTyychTc/Captura-de-pantalla-2023-09-07-131355.png)](https://postimg.cc/crWLdt3r)
+
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
+
+[Link Figma Landing Page Wireframes Mobile and Desktop](https://www.figma.com/file/FU0T8mcdFdMuNBZdxC59wh/UI-DESIGN?type=design&mode=design&t=kTYlSKwYVqLtNBhY-1)
+
+[![Frame-229-1.png](https://i.postimg.cc/c4xK2Vmh/Frame-229-1.png)](https://postimg.cc/fkPT0q1S)
+
+[![Frame-230.png](https://i.postimg.cc/jdMWbZ3b/Frame-230.png)](https://postimg.cc/tYVRdtHS)
+
+[![Frame-231.png](https://i.postimg.cc/cLjrK6Nk/Frame-231.png)](https://postimg.cc/mPYbJLk7)
+
+[![234.png](https://i.postimg.cc/fTRLBYzg/234.png)](https://postimg.cc/mhKBrzFQ)
+
+[![235.png](https://i.postimg.cc/bNVvMddY/235.png)](https://postimg.cc/qzn06J8W)
+
+[![236.png](https://i.postimg.cc/pLgLW7Dg/236.png)](https://postimg.cc/5XSVpsK3)
+
+[![237.png](https://i.postimg.cc/jd2xzKcp/237.png)](https://postimg.cc/Czypg3W7)
+
+[![238.png](https://i.postimg.cc/HsNpzKPV/238.png)](https://postimg.cc/fJxnTHsN)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+**User Goal: Autenticación de Usuario**
+
+[![Captura-de-pantalla-2023-09-07-132522.png](https://i.postimg.cc/YCJY5djS/Captura-de-pantalla-2023-09-07-132522.png)](https://postimg.cc/BjBjDcTW)
+
+**User Goal: Ver postulaciones**
+
+[![Captura-de-pantalla-2023-09-07-132542.png](https://i.postimg.cc/RFmfFq75/Captura-de-pantalla-2023-09-07-132542.png)](https://postimg.cc/t1r7vqv2)
+
+**User Goal: Ver ofertas de trabajos ofrecidas**
+
+[![Captura-de-pantalla-2023-09-07-132559.png](https://i.postimg.cc/WzbkGKY5/Captura-de-pantalla-2023-09-07-132559.png)](https://postimg.cc/sQqxynrW)
+
+**User Goal: Seleccionar candidatos**
+
+[![Captura-de-pantalla-2023-09-07-132614.png](https://i.postimg.cc/cJx0LSvk/Captura-de-pantalla-2023-09-07-132614.png)](https://postimg.cc/21KP0gFn)
+
+**User Goal: Perfil de Usuario**
+
+[![perfil.png](https://i.postimg.cc/0NVx6Bmk/perfil.png)](https://postimg.cc/wtRnZF0Z)
+
+**User Goal: Conversar con la Empresa**
+
+[![Captura-de-pantalla-2023-09-07-132705.png](https://i.postimg.cc/PxNH1Qzm/Captura-de-pantalla-2023-09-07-132705.png)](https://postimg.cc/xJrB2HZC)
+
+**User Goal: Necesitar soporte**
+
+[![Captura-de-pantalla-2023-09-07-132723.png](https://i.postimg.cc/1Rkg58sW/Captura-de-pantalla-2023-09-07-132723.png)](https://postimg.cc/5jm9sNHv)
+
 ### 4.4.2. Web Applications Mock-ups.
+
+[Link Figma Landing Page Mock-Up Mobile and Desktop](https://www.figma.com/file/FU0T8mcdFdMuNBZdxC59wh/UI-DESIGN?type=design&mode=design&t=kTYlSKwYVqLtNBhY-1)
+
+**MOCK UP DEL PERFIL :**
+
+[![0.png](https://i.postimg.cc/XYRxffMT/0.png)](https://postimg.cc/PCMmh854)
+
+**MOCK UP PANTALLA DE INICIO :**
+
+[![1.png](https://i.postimg.cc/JhjxPsMt/1.png)](https://postimg.cc/QBxcMxBr)
+
+**MOCK UP PROCESO DE SELECCIÓN :**
+
+[![2.png](https://i.postimg.cc/V61RTzkg/2.png)](https://postimg.cc/948Zw5Tw)
+
+**MOCK UP RECUPERAR CONTRASEÑA :**
+
+[![3.png](https://i.postimg.cc/XYd1DHgV/3.png)](https://postimg.cc/NKGxKxVV)
+
+**MOCK UP INICIO DE SESIÓN:**
+
+[![4.png](https://i.postimg.cc/CK0ryGvb/4.png)](https://postimg.cc/sMn47hC2)
+
+**MOCK UP REGISTRO:**
+
+[![resgistro.png](https://i.postimg.cc/zX1xHSr6/resgistro.png)](https://postimg.cc/BtMTdFtB)
+
+**MOCK UP POSTULACIONES:**
+
+[![5.png](https://i.postimg.cc/bvRCqZMW/5.png)](https://postimg.cc/mctNwgTy)
+
+**MOCK UP PANTALLA DE SOPORTE Y PREGUNTAS FRECUENTES:**
+
+[![6.png](https://i.postimg.cc/8cksx0vx/6.png)](https://postimg.cc/xJ70zgtP)
+
+**MOCK UP PANTALLA DE NOTIFICACIONES :**
+
+[![7.png](https://i.postimg.cc/QNSFcjGD/7.png)](https://postimg.cc/9zRXh5Qg)
+
+**MOCK UP PANTALLA DE POSTULACIONES OFRECIDAS:**
+
+[![8.png](https://i.postimg.cc/90zCd5ZX/8.png)](https://postimg.cc/Cny302c9)
+
+**MOCK UP PANTALLA DE VISUALIZACIÓN DE POSTULANTE :**
+
+[![9.png](https://i.postimg.cc/sDQ31z3w/9.png)](https://postimg.cc/MvSCrhMQ)
+
+**MOCK UP CHAT :**
+
+[![10.png](https://i.postimg.cc/hjjHw8jp/10.png)](https://postimg.cc/f3G2S9Y9)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+**User Goal: Autenticación de Usuario**
+
+[![autenticacion.png](https://i.postimg.cc/RVDQQ75v/autenticacion.png)](https://postimg.cc/sv5h3ZgL)
+
+**User Goal: Ver postulaciones**
+
+[![psotulaciones.png](https://i.postimg.cc/XvMftnYh/psotulaciones.png)](https://postimg.cc/v4zxVF9L)
+
+**User Goal: Ver ofertas de trabajos ofrecidas**
+
+[![trabajos-ofrecidos.png](https://i.postimg.cc/k5xQmLV5/trabajos-ofrecidos.png)](https://postimg.cc/FfHdbWVt)
+
+**User Goal: Seleccionar candidatos**
+
+[![candtiados.png](https://i.postimg.cc/CLXkfwk1/candtiados.png)](https://postimg.cc/ykhkM4f4)
+
+**User Goal: Perfil de Usuario**
+
+[![s.png](https://i.postimg.cc/W1ZrGxw7/s.png)](https://postimg.cc/BjqXsYy8)
+
+**User Goal: Conversar con la Empresa**
+
+[![a.png](https://i.postimg.cc/1zZFJMW1/a.png)](https://postimg.cc/18J4z0hv)
+
+**User Goal: Necesitar soporte**
+
+[![soporte.png](https://i.postimg.cc/PxXwkJs6/soporte.png)](https://postimg.cc/KKWzPZYL)
+
 ## 4.5. Web Applications Prototyping.
+
 ## 4.6. Domain-Driven Software Architecture.
-### 4.6.1. Software Architecture Context Diagram.
+
+### 4.6.1. Software Architecture Context Diagram
+
+[![context-diagram.png](https://i.postimg.cc/43BzyV5C/context-diagram.png)](https://postimg.cc/Ty5yHyFQ)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+[![conteiner.png](https://i.postimg.cc/cHCfnC9v/conteiner.png)](https://postimg.cc/R6r3rSzm)
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+**Payment Context Component Diagram**
+
+[![componet.png](https://i.postimg.cc/WpDHR1Np/componet.png)](https://postimg.cc/DmTgLF4R)
+
+**Evaluation Context Component Diagram**
+
+[![evaluation.png](https://i.postimg.cc/8kqnTgcR/evaluation.png)](https://postimg.cc/DmPccDq0)
+
+**User Profile Context Component Diagram**
+
+[![user-profile.png](https://i.postimg.cc/FFj0kMGg/user-profile.png)](https://postimg.cc/vDZ4pSJc)
+
+**Recruitment Context Component Diagram**
+
+[![rec.png](https://i.postimg.cc/MKqV79Fk/rec.png)](https://postimg.cc/YjDvkz78)
+
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+![Imagen](https://lucid.app/publicSegments/view/fce48120-4b0e-48f6-b65f-6d98342515d5/image.png)
+
 ### 4.7.2. Class Dictionary.
+
+## ProcesoSeleccion
+
+Diseñada para rastrear y gestionar los procesos de selección de candidatos para oportunidades laborales. Los atributos proporcionan información clave sobre el proceso, como quién lo está gestionando, a qué oportunidad está vinculado y en qué estado se encuentra.
+
+### Atributo
+| Nombre          | Descripción                                                                                                  |
+|-----------------|-------------------------------------------------------------------------------------------------------------|
+| proceso_id      | Este atributo representa un identificador único para el proceso de selección. Es un número entero que se utiliza para distinguir entre diferentes procesos de selección en la aplicación. |
+| user_id         | Este atributo representa el identificador único del usuario asociado al proceso de selección. Usualmente, se refiere al responsable de recursos humanos o empleador que está gestionando el proceso. |
+| oportunidad_id  | Este atributo representa el identificador único de la oportunidad de empleo a la que está asociado el proceso de selección. Sirve para vincular el proceso con la oferta de trabajo específica. |
+| estado_proceso  | Este atributo almacena el estado actual del proceso de selección. Puede tener valores como "pendiente", "entrevista programada", "selección finalizada", etc. para indicar en qué etapa se encuentra el proceso. |
+| fecha_inicio    | Este atributo registra la fecha en la que comenzó el proceso de selección. Almacena una fecha en formato de fecha (por ejemplo, "YYYY-MM-DD"). |
+| fecha_fin       | Este atributo registra la fecha en la que finalizó o finalizará el proceso de selección. También almacena una fecha en formato de fecha. |
+
+### Método
+| Nombre                                    | Descripción                                                                                                                                                                    |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| evaluar_perfiles_candidatos()             | Este método se encarga de evaluar los perfiles de los candidatos que han aplicado para la oportunidad laboral asociada a este proceso de selección. Puede implicar la revisión de la educación, la experiencia laboral y otras habilidades relevantes de los candidatos. |
+| registrar_observaciones_entrevistas()      | Este método permite registrar observaciones y detalles de las entrevistas realizadas con los candidatos. Puede incluir notas detalladas, comentarios y calificaciones sobre el desempeño de los candidatos en las entrevistas. |
+| extender_ofertas_empleo()                 | Este método se utiliza para extender ofertas de empleo a los candidatos seleccionados en el proceso de selección. Implica completar los detalles de la oferta y confirmar su extensión a los candidatos. |
+
+## Estudiante
+
+Representa a un usuario que está utilizando la plataforma para buscar oportunidades de pasantías o empleo. Esta clase almacena información sobre el perfil de un estudiante, incluyendo su nombre, apellido, dirección de correo electrónico, contraseña, foto de perfil y otras características relacionadas con su búsqueda de empleo.
+
+### Atributo
+
+| Nombre             | Descripción                                                                                                  |
+|--------------------|-------------------------------------------------------------------------------------------------------------|
+| user_id            | Un identificador único que se utiliza para distinguir a este estudiante de otros usuarios en la plataforma. |
+| nombre             | El nombre del estudiante.                                                                                    |
+| apellido           | El apellido del estudiante.                                                                                  |
+| correo_electronico | La dirección de correo electrónico del estudiante, que se utiliza para la comunicación y el inicio de sesión en la plataforma. |
+| contrasena         | La contraseña de la cuenta del estudiante para garantizar la seguridad de su información.                  |
+| foto_perfil        | La ruta o URL de la foto de perfil del estudiante en la plataforma.                                          |
+
+### Método
+
+| Nombre             | Descripción                                                                                                  |
+|--------------------|-------------------------------------------------------------------------------------------------------------|
+| registrarse        | Este método permite al estudiante registrarse en la plataforma proporcionando la información necesaria, como nombre, apellido, correo electrónico y contraseña. Una vez registrado, se crea una cuenta en la plataforma. |
+| loguearse          | Este método permite al estudiante iniciar sesión en la plataforma utilizando su dirección de correo electrónico y contraseña registrados. La autenticación exitosa le dará acceso a su cuenta y a las funcionalidades de la plataforma. |
+| recuperar_contrasena | En caso de olvidar la contraseña, este método permite al estudiante solicitar un proceso de recuperación de contraseña. Se le puede solicitar proporcionar información adicional o recibir un enlace de recuperación en su dirección de correo electrónico. |
+| cerrar_sesion      | Este método permite al estudiante cerrar sesión en su cuenta, lo que garantiza la seguridad de su información y evita el acceso no autorizado. |
+| editar_perfil_profesional | Permite al estudiante editar su perfil profesional, lo que incluye detalles como su educación, habilidades y descripción personal. Esto ayuda a personalizar su perfil para atraer a los empleadores. |
+| agregar_experiencia | Este método permite al estudiante agregar su experiencia académica y laboral relevante a su perfil. Esto ayuda a destacar sus logros y habilidades pertinentes. |
+| subir_foto_de_perfil | Permite al estudiante subir o cambiar su foto de perfil en la plataforma para personalizar su perfil y hacerlo más atractivo para los empleadores y otros usuarios. |
+| establecer_preferencias | Este método permite al estudiante establecer sus preferencias de búsqueda de empleo en la plataforma, lo que incluye la ubicación, el salario deseado, el tipo de contrato y la industria, entre otros criterios. Esto ayuda a recibir recomendaciones más precisas y relevantes sobre oportunidades laborales. |
+
+## Experiencia
+
+Representa la experiencia académica o laboral de un estudiante registrado en la plataforma. Esta experiencia puede incluir prácticas, trabajos anteriores, proyectos relevantes y otros logros relacionados con la educación y el trabajo.
+
+### Atributo
+
+| Atributo        | Descripción                                                                                                      |
+|-----------------|-----------------------------------------------------------------------------------------------------------------|
+| experiencia_id  | Un identificador único que distingue una experiencia específica de otras experiencias almacenadas en la plataforma. |
+| user_id         | Un identificador que relaciona la experiencia con el estudiante al que pertenece.                                 |
+| tipo            | Indica el tipo de experiencia, que puede ser "académica" o "laboral", para diferenciar entre la experiencia educativa y la experiencia en el trabajo. |
+| descripcion     | Una descripción detallada de la experiencia, que puede incluir información sobre las tareas realizadas, logros alcanzados y otros detalles relevantes. |
+| fecha_inicio    | La fecha de inicio de la experiencia, que indica cuándo comenzó la experiencia académica o laboral.               |
+| fecha_fin       | La fecha de finalización de la experiencia, que indica cuándo terminó la experiencia académica o laboral. Puede ser nulo si la experiencia aún no ha finalizado. |
+
+### Método
+
+| Método                     | Descripción                                                                                                                                       |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| guardarExperiencia()       | Este método permite al estudiante guardar una nueva experiencia en la plataforma. Requiere proporcionar información como el tipo de experiencia, la descripción, la fecha de inicio y, opcionalmente, la fecha de finalización. |
+| actualizarExperiencia()    | Permite al estudiante actualizar los detalles de una experiencia existente, como la descripción, las fechas de inicio o finalización, etc.        |
+| eliminarExperiencia()      | Este método permite al estudiante eliminar una experiencia específica de su perfil. Una vez eliminada, la experiencia ya no estará asociada con el estudiante.                         |
+| obtenerIdExperiencia()     | Proporciona el identificador único de una experiencia específica. Esto puede ser útil para realizar operaciones de búsqueda o actualización de experiencias.               |
+| obtenerExperiencia()       | Permite al estudiante obtener los detalles completos de una experiencia específica, incluyendo su tipo, descripción y fechas.                                    |
+| obtenerExperienciaByUsuario() | Este método permite al estudiante obtener una lista de todas sus experiencias almacenadas en la plataforma. Esto facilita la visualización y gestión de todas las experiencias académicas y laborales asociadas con su perfil.                 |
+
+## AyudaSoporte
+
+Representa las solicitudes de ayuda, asistencia o soporte realizadas por los usuarios de la plataforma, ya sean estudiantes o responsables de recursos humanos / empleadores. Estas solicitudes pueden estar relacionadas con problemas técnicos, consultas generales o cualquier otro tipo de asistencia que los usuarios puedan necesitar para utilizar la plataforma de manera efectiva.
+
+### Atributo
+
+| Atributo          | Descripción                                                                                                                                   |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| ayuda_id          | Un identificador único que distingue una solicitud de ayuda específica de otras solicitudes almacenadas en la plataforma.                   |
+| user_id           | Un identificador que relaciona la solicitud de ayuda con el usuario que la ha realizado. Esto permite asociar la solicitud con el perfil del usuario y rastrear quién realizó la solicitud. |
+| tipo_solicitud    | Indica el tipo de solicitud que se está realizando. Puede ser una "solicitud de asistencia técnica", una "consulta general", o cualquier otro tipo de solicitud que se pueda definir. |
+| descripcion       | Una descripción detallada de la solicitud de ayuda, que proporciona información sobre el problema o la pregunta del usuario.                |
+| fecha_creacion    | La fecha en que se creó la solicitud de ayuda, lo que permite rastrear cuándo se realizó la solicitud.                                       |
+| estado_solicitud  | Indica el estado actual de la solicitud, que puede ser "pendiente", "en proceso", "resuelta" u otros estados que reflejen el progreso de la asistencia proporcionada. |
+
+### Método
+
+| Método                                 | Descripción                                                                                                                                                                                                                                                                                  |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| acceder_recursos_ayuda_tutoriales()     | Este método permite a los usuarios acceder a recursos de ayuda y tutoriales que están disponibles en la plataforma. Estos recursos pueden proporcionar información sobre cómo utilizar la plataforma de manera efectiva y resolver problemas comunes.                                                                |
+| contactar_soporte()                     | Permite a los usuarios, ya sean estudiantes o responsables de recursos humanos / empleadores, contactar al equipo de soporte de la plataforma para obtener asistencia personalizada. Esto incluye la posibilidad de enviar solicitudes de ayuda específicas o preguntas.                                                            |
+| reportar_problemas()                    | Permite a los usuarios reportar problemas técnicos o errores que puedan encontrar en la plataforma. Esto es útil para que el equipo de soporte pueda identificar y solucionar problemas de manera eficiente.                                                                                   |
+| acceder_chat_en_vivo()                  | Proporciona a los usuarios la opción de acceder a un chat en vivo donde pueden comunicarse directamente con un agente de soporte para resolver problemas o recibir asistencia en tiempo real.                                                                                                   |
+## Empresa
+
+Representa a las empresas o empleadores que utilizan la plataforma para publicar ofertas de empleo, gestionar postulaciones y comunicarse con candidatos. Cada instancia de esta clase corresponde a una empresa o empleador registrado en la plataforma.
+
+### Atributo
+
+| Atributo     | Descripción                                                                                                                |
+|--------------|---------------------------------------------------------------------------------------------------------------------------|
+| empresa_id   | Un identificador único que distingue a cada empresa o empleador en la plataforma. Permite identificar y gestionar las empresas registradas.                                            |
+| nombre       | El nombre de la empresa o empleador, que se utiliza para identificar la entidad en la plataforma.                         |
+| descripcion  | Una descripción de la empresa que proporciona información adicional sobre su actividad, cultura corporativa u otros detalles relevantes.                                            |
+| correo       | La dirección de correo electrónico de la empresa, que se utiliza para la comunicación y la gestión de la cuenta.             |
+| ubicacion    | La ubicación física de la empresa, que puede incluir la dirección o la ciudad donde se encuentra.                         |
+| contrasenna  | La contraseña de acceso a la cuenta de la empresa, que se utiliza para garantizar la seguridad de la cuenta.                |
+| sitioweb     | La dirección del sitio web de la empresa, que permite a los candidatos obtener más información sobre la empresa y sus actividades.                                            |
+
+### Método
+
+| Método                          | Descripción                                                                                                                                                                                     |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| publicar_oferta_empleo()         | Este método permite a la empresa publicar nuevas ofertas de empleo en la plataforma. Las ofertas de empleo son visibles para los candidatos interesados y forman parte del proceso de reclutamiento. |
+| editar_oferta_empleo()          | Permite a la empresa editar las ofertas de empleo existentes en caso de cambios en los requisitos o en la descripción del trabajo. Esto garantiza que las ofertas de empleo estén actualizadas y reflejen las necesidades de la empresa.                                    |
+| gestionar_postulaciones()       | Permite a la empresa gestionar las postulaciones de candidatos a las ofertas de empleo. Esto incluye la revisión de perfiles, cambios de estado de postulaciones y la comunicación con candidatos.                                          |
+| comunicacion_con_candidatos()  | Proporciona a la empresa herramientas para comunicarse con los candidatos de manera efectiva durante el proceso de selección. Esto incluye la programación de entrevistas, el intercambio de mensajes y la extensión de ofertas de empleo.                   |
+
+
+## OfertaPractica
+
+Representa las ofertas de prácticas publicadas en la plataforma, que están dirigidas a estudiantes en busca de oportunidades de pasantías. Cada instancia de esta clase corresponde a una oferta de práctica registrada en la plataforma.
+
+### Atributo
+
+| Atributo            | Descripción                                                                                                                                                                                         |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| oferta_practica_id  | Un identificador único que distingue a cada oferta de práctica en la plataforma. Permite identificar y gestionar las ofertas de práctica registradas.                                            |
+| estudiante_id       | El identificador del estudiante que publica la oferta de práctica. Esto permite conocer quién creó la oferta.                                                                                    |
+| titulo              | El título de la oferta de práctica, que proporciona una descripción concisa del puesto de pasantía disponible.                                                                                      |
+| descripcion         | Una descripción detallada de la oferta de práctica, que incluye información sobre las responsabilidades, requisitos y beneficios del puesto.                                                      |
+| fecha_inicio        | La fecha de inicio prevista para la pasantía, que indica cuándo comenzará el estudiante seleccionado.                                                                                                 |
+| fecha_final         | La fecha de finalización prevista para la pasantía, que indica cuándo finalizará el período de prácticas.                                                                                              |
+| requisitos          | Una lista de requisitos que deben cumplir los estudiantes interesados en la pasantía, como habilidades específicas, nivel de estudio, etc.                                                           |
+| tipo_empleo         | El tipo de empleo asociado a la pasantía, que puede ser "Tiempo completo", "Medio tiempo" u otro.                                                                                                    |
+| salario             | El salario ofrecido para la pasantía, que indica la remuneración que recibirá el estudiante durante el período de prácticas.                                                                        |
+
+### Método
+
+| Método                     | Descripción                                                                                                                                                                                               |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| crearOfertaPractica()       | Este método permite a los estudiantes crear nuevas ofertas de práctica en la plataforma. Las ofertas de práctica se vuelven visibles para otros estudiantes interesados.                                 |
+| editarOfertaPractica()      | Permite a los estudiantes editar las ofertas de práctica existentes en caso de cambios en los requisitos o en la descripción del puesto. Esto garantiza que las ofertas de práctica estén actualizadas.  |
+| eliminarOfertaPractica()    | Permite a los estudiantes eliminar ofertas de práctica que ya no están disponibles o que desean retirar de la plataforma.                                                                           |
+| getOfertaByID()             | Permite obtener detalles específicos de una oferta de práctica utilizando su identificador único (oferta_practica_id).                                                                                |
+| getOfertaByRequisito()      | Permite buscar ofertas de práctica en función de ciertos requisitos, como habilidades específicas. Esto facilita a los estudiantes encontrar ofertas de práctica que se ajusten a sus perfiles.     |
+
+
+## ObservacionEntrevista
+
+Representa las observaciones y detalles de una entrevista realizada durante un proceso de selección. Permite a los responsables de recursos humanos o empleadores registrar observaciones sobre el desempeño de los candidatos durante las entrevistas y mantener un registro completo de estas interacciones.
+
+### Atributo
+
+| Atributo           | Descripción                                                                                                                                                                                        |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| observacion_id     | Un identificador único que distingue cada observación de entrevista en el sistema. Permite identificar y gestionar las observaciones de manera individual.                                         |
+| proceso_id         | El identificador del proceso de selección al que está asociada la observación. Esto relaciona la observación con un proceso de selección específico.                                               |
+| entrevistador      | El nombre o identificación del entrevistador que realizó la observación. Proporciona información sobre quién realizó la observación.                                                                |
+| fecha_entrevista   | La fecha en que se llevó a cabo la entrevista, lo que permite ubicar la observación en el contexto temporal del proceso de selección.                                                            |
+| observaciones      | Las observaciones detalladas sobre el desempeño del candidato durante la entrevista. Esto incluye comentarios, evaluaciones y otros detalles relevantes.                                        |
+
+### Método
+
+| Método                               | Descripción                                                                                                                                                                                              |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| guardarObservacionEntrevista()        | Este método permite guardar una nueva observación de entrevista en el sistema. Se utiliza después de realizar una entrevista para registrar las observaciones sobre el candidato.                    |
+| actualizarObservacionEntrevista()     | Permite actualizar una observación de entrevista existente en caso de que se requieran modificaciones o adiciones a las observaciones previas.                                                           |
+| eliminarObservacionEntrevista()       | Permite eliminar una observación de entrevista si ya no es relevante o si se cometió un error en el registro.                                                                                             |
+| obtenerIdObservacionEntrevista()      | Permite obtener detalles específicos de una observación de entrevista utilizando su identificador único (observacion_id).                                                                               |
+| obtenerDatosObservacionEntrevista()   | Facilita la obtención de datos y detalles completos de una observación de entrevista, lo que permite a los responsables de recursos humanos revisar y analizar la información registrada.          |
+
+
+## Postulacion
+
+Representa la postulación de un estudiante a una oportunidad de pasantía o empleo en la plataforma. Permite registrar la relación entre un estudiante, una oportunidad específica y el estado de su postulación, lo que facilita la gestión de las solicitudes de los estudiantes y el seguimiento de los procesos de selección.
+
+### Atributo
+
+| Atributo           | Descripción                                                                                                                        |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| postulacion_id     | Un identificador único que distingue cada postulación en el sistema. Proporciona un medio para identificar y gestionar postulaciones de manera individual.                                         |
+| user_id            | El identificador del estudiante que realiza la postulación. Relaciona la postulación con un usuario estudiante específico.            |
+| oportunidad_id     | El identificador de la oportunidad a la que se postula el estudiante. Esto establece la relación entre la postulación y una oportunidad de pasantía o empleo en particular.    |
+| estado_postulacion | El estado actual de la postulación, que puede ser "pendiente," "aceptada," "rechazada" u otro estado relevante. Indica el progreso de la postulación.                      |
+| fecha_postulacion  | La fecha en que se realizó la postulación. Permite registrar cuándo se realizó la postulación.                                      |
+
+### Método
+
+| Método               | Descripción                                                                                                                             |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| guardarPostulacion() | Este método se utiliza para guardar una nueva postulación en el sistema cuando un estudiante se postula a una oportunidad específica.   |
+| actualizarEstado()   | Permite actualizar el estado de una postulación existente, por ejemplo, cambiarla de "pendiente" a "aceptada" o "rechazada" cuando se toma una decisión sobre la postulación.  |
+| eliminarPostulacion()| Se utiliza para eliminar una postulación si ya no es relevante o si se cometió un error en el registro.                                |
+| obtenerPostulacion() | Facilita la obtención de detalles específicos de una postulación utilizando su identificador único (postulacion_id).                    |
+
+
+## Comentarios
+
+Representa los comentarios y calificaciones de los estudiantes sobre una oferta de práctica específica en la plataforma. Permite a los estudiantes compartir sus experiencias y opiniones con respecto a una oferta de práctica, y también proporciona una calificación asociada. Esto puede ayudar a otros estudiantes a tomar decisiones informadas al buscar oportunidades de práctica.
+
+### Atributo
+
+| Atributo           | Descripción                                                                                                                        |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| comentario_id      | Un identificador único que distingue cada comentario en el sistema. Proporciona un medio para identificar y gestionar comentarios de manera individual.                                         |
+| estudiante_id      | El identificador del estudiante que crea el comentario y la calificación. Asocia el comentario con un estudiante específico.            |
+| oferta_practica_id | El identificador de la oferta de práctica a la que se refiere el comentario. Establece la relación entre el comentario y una oferta de práctica en particular.    |
+| comentario         | El contenido del comentario creado por el estudiante. Permite a los estudiantes expresar sus opiniones y compartir sus experiencias con respecto a la oferta de práctica. |
+| calificacion       | La calificación asignada por el estudiante a la oferta de práctica. Puede ser en forma de estrellas, una puntuación numérica o cualquier otro sistema de calificación definido. Indica la valoración general de la oferta por parte del estudiante. |
+
+### Método
+
+| Método              | Descripción                                                                                                                                |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| crearComentario()   | Este método se utiliza para que un estudiante cree un nuevo comentario y calificación para una oferta de práctica específica.           |
+| editarComentario()  | Permite a un estudiante editar un comentario y/o calificación previamente creado.                                                          |
+| eliminarComentario()| Se utiliza para que un estudiante elimine un comentario y calificación si ya no son relevantes o si se cometió un error en el registro.   |
+| calificarComentario()| Facilita la actualización de la calificación asignada por el estudiante a una oferta de práctica.                                       |
+
+
+
 ## 4.8. Database Design.
-### 4.8.1. Database Diagram.    
+
+### 4.8.1. Database Diagram.
+
+![Imagen](https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png)
+
+
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
