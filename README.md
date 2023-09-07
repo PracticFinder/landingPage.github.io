@@ -2322,4 +2322,16 @@ Representa los comentarios y calificaciones de los estudiantes sobre una oferta 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Hasta el momento, no hemos empleado servicios web en el proceso de desarrollo de la página de inicio. Por lo tanto, no se han registrado actividades como la creación de cuentas, configuración de recursos en proveedores de servicios en la nube, establecimiento de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras.
+Con respecto al despliegue de la página de inicio, esta se ha realizado en la plataforma de Netlify. El siguiente enlace corresponde a la página de inicio: https://medmeet.netlify.app/. A continuación, se presentan algunas capturas del servicio de despliegue con Netlify.
+
+**Estado de deployment de la página:**
+
+[![deply1.png](https://i.postimg.cc/90yL01Qm/deply1.png)](https://postimg.cc/645r1rZg)
+
+**Deploys con registros de commits en Github:**
+
+[![deply2.png](https://i.postimg.cc/50hPfD1K/deply2.png)](https://postimg.cc/cgc7m9vf)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
