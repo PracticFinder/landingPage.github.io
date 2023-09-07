@@ -505,7 +505,7 @@ El diseño de entrevista es una gran manera eficaz de conocer a nuestro público
     Nombre: Miguel Ángel<br>
     Edad: 25 años<br>
     Análisis:
-    <br>[![Captura-de-pantalla-2023-09-07-153721.png](https://i.postimg.cc/QMrdwJFQ/Captura-de-pantalla-2023-09-07-153721.png)](https://postimg.cc/RWXmnfQh)
+    <br><img src="https://i.postimg.cc/QMrdwJFQ/Captura-de-pantalla-2023-09-07-153721.png" width="800px">
     <br>Enlace de entrevista: https://drive.google.com/file/d/1HovqwLyKrFr9VJ15JZwF0L277k0ww8Re/view?usp=sharing
     <br>En la entrevista que nos brindó Miguel Ángel nos proporcionó su opinión acerca de la contratación de nuevos talentos emergentes en su empresa. Ellos están            dispuestos a darle capacitaciones mediante un mentor el cual se encargará de ayudarlo a insertarse al mundo laboral. Nos menciona que es un poco difícil              encontrar talentos para ciertas vacantes y que una plataforma como la nuestra le sería muy útil.</p>
 
@@ -1712,14 +1712,7 @@ La notificación contendrá información sobre el cambio en el estado y una brev
             <br><span style="color:red">Dado</span></b> que soy un estudiante registrado y estoy conectado a mi cuenta
             <br><b><span style="color:red">Cuando</span></b> accedo a la sección de "Soporte" o "Contacto" en la plataforma,
             <br><b><span style="color:red">Entonces</span></b> se me presenta un formulario de contacto con campos para ingresar mi nombre, dirección de correo electrónico y descripción detallada del problema o pregunta. 
-            <br><b><span style="color:red">Y</span></b> lleno el formulario y presiono el botón de enviar,
-            <br><br><b><em>Escenario</em>
-            <br><span style="color:red">Dado</span></b> 
-            <br><b><span style="color:red">Y</span></b> 
-            <br><b><span style="color:red">Cuando</span></b> 
-            <br><b><span style="color:red">Y</span></b> 
-            <br><b><span style="color:red">Entonces</span></b> 
-            <br><b><span style="color:red">Y</span></b> 
+            <br><b><span style="color:red">Y</span></b> lleno el formulario y presiono el botón de enviar
             </td>
         </tr>
     </tbody>
@@ -1907,6 +1900,44 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 
 [![Captura-de-pantalla-2023-09-07-131355.png](https://i.postimg.cc/wTyychTc/Captura-de-pantalla-2023-09-07-131355.png)](https://postimg.cc/crWLdt3r)
 
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477403849138176/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477467732594829/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477513727315978/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477554097500180/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477596476735488/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477626092720179/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477663824674826/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477702844293252/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477735358537848/image.png" width="800px">
+
+<br>
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477782066298972/image.png" width="800px">
+
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
@@ -1918,6 +1949,14 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 [![Frame-230.png](https://i.postimg.cc/jdMWbZ3b/Frame-230.png)](https://postimg.cc/tYVRdtHS)
 
 [![Frame-231.png](https://i.postimg.cc/cLjrK6Nk/Frame-231.png)](https://postimg.cc/mPYbJLk7)
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149480081090162740/image.png" width="800px">
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149480148396150905/image.png" width="800px">
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149480227823697940/image.png" width="800px">
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149480308052336661/image.png" width="800px">
 
 [![234.png](https://i.postimg.cc/fTRLBYzg/234.png)](https://postimg.cc/mhKBrzFQ)
 
@@ -2042,6 +2081,24 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 [![soporte.png](https://i.postimg.cc/PxXwkJs6/soporte.png)](https://postimg.cc/KKWzPZYL)
 
 ## 4.5. Web Applications Prototyping.
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149481250764095518/image.png" width="800px">
+
+<br>
+
+<table>
+  <tr>
+    <th colspan="2">Links Figma Landing Page Mock-Up Mobile and Desktop</th>
+  </tr>
+  <tr>
+    <td>PROTOTIPO</td>
+    <td>VÍDEO EXPLICATIVO</td>
+  </tr>
+  <tr>
+    <td> https://www.figma.com/proto/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=11-5961&t=IbU6MX4hz22At85u-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A159&show-proto-sidebar=1&mode=design </td>
+    <td> https://drive.google.com/file/d/1JIEPb5h84zasjX_aVlHi3aebg0YxuNSA/view?usp=sharing  </td>
+  </tr>
+</table>
 
 ## 4.6. Domain-Driven Software Architecture.
 
