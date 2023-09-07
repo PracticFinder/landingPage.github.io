@@ -2373,17 +2373,238 @@ Representa los comentarios y calificaciones de los estudiantes sobre una oferta 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+**Project Management**
+
+- **Discord y WhatsApp (<https://discord.com/> ) (<https://www.whatsapp.com/?lang=es>)**
+
+Discord y WhatsApp han sido los medios principales de comunicación entre los miembros del grupo, donde Discord ha destacado ya que contiene funcionalidades adicionales para organizar grupos de estudio y de trabajo.
+
+- **Trello (<https://trello.com/es>)**
+
+Trello ha permitido la organización de tareas a realizar en el proyecto, además del desarrollo del product backlog.
+
+**Product UX/UI Design**
+
+- **UXPressia (<https://uxpressia.com/> )**
+
+Se utilizó UXPressia para el desarrollo de los diagramas user personas, user journey mapping, empathy mapping e impact map.
+
+- **Pigment (<https://pigment.shapefactory.co/> )**
+
+Pigment ha apoyado en la selección de la paleta de colores para el desarrollo del diseño de la web.
+
+- **Figma (<https://www.figma.com/> )**
+
+Se ha utilizado Figma para el desarrollo de los wireframes y prototipos del landing page y aplicación web, tanto en dispositivos de escritorio como de móvil.
+
+- **Miro (<https://miro.com/es/>)**
+
+Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+
+- **Lucidchart (<https://lucid.app/>)**
+
+Lucidchart ha sido empleado en el desarrollo de los diagramas de base de datos y diagrama de clases.
+
+**Software Development** 
+
+- **Visual Studio Code (<https://code.visualstudio.com/> )** 
+
+Visual Studio Code es el que emplearemos para el desarrollo del landing page del proyecto.
+
+- **Github y Git Bash (<https://github.com/> ) (<https://git-scm.com/downloads> )**
+
+Github y Git bash nos permitirán el control de versiones del código y el desarrollo colaborativo del proyecto.
 ### 5.1.2. Source Code Management.
+Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page.
+
+Organización: <https://github.com/orgs/PracticFinder/repositories> 
+
+Repositorio de Acceptance Tests: <https://github.com/PracticFinder/acceptance-tests> 
+
+Repositorio Landing Page: <https://github.com/PracticFinder/landingPage.github.io> 
+
+Despliegue del Landing Page en Netlify: <https://practifinder-upc.netlify.app/> 
+
+Las ramas principales en el Gitflow serán las ramas main y developer, donde developer será la principal rama de trabajo, mientras que la rama main tendrá la versión final de la web desplegada en Netlify. Por otro lado, se utilizarán ramas secundarias con el nombre de los features que se estén trabajando (“feature/navbar”, “feature/footer”, como ejemplo). Asimismo, se incluyen el branches para release (branch release) y hotfix (branch hotfix).
+
+**Commit Conventions**
+
+Para los commits en Github se han utilizado los estándares convencionales versión 1.1.0 (<https://www.conventionalcommits.org/en/v1.0.0/> ) según la estructura:
+
+<type>[optional scope]: <description>
+
+●      Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+
+●      Optional scope: es opcional y representa el alcance del commit.
+
+●      Description: descripción del commit y acciones realizadas.
+
+**Semantic Versioning**
+
+Los releases se realizan según los estándares de Semantinc Versioning 2.0 (<https://semver.org/> ), según el formato MAJOR.MINOR.PATCH.
+
+●      MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
+
+●      MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
+
+●      PATCH versión de parche de bug fixes y hotfixes.
+
+**HTML Style Guide and Coding Conventions**
+
+Es necesario seguir convenciones estandarizadas de HTML como estructura de la web. Entre las principales de W3 Schools (<https://www.w3schools.com/html/html5_syntax.asp> ) podemos mencionar:
+
+- Siempre declarar el tipo de documento con <!DOCTYPE html>
+- Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
+- Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
+- Siempre poner entre comillas los atributos dentro de un elemento html ( <p class=”name”></p>)
+- Especificar alt, width, and height para imágenes.
+- Espaciado y signo igual estandarizados.
+- Evitar líneas de código extensas.
+- No olvidar el “<title></title>” al principio.
+- Se recomienda no omitir las etiquetas <body>, <html>, <head>
+- Utilizar meta tags al inicio.
+
+**Google HTML/CSS Style Guide**
+
+Algunas de las convenciones de Google en cuanto a HTML y CSS (<https://google.github.io/styleguide/htmlcssguide.html> ) podemos mencionar:
+
+- Usar la sintaxis y semántica de HTML5.
+- Usar minúsculas para los nombres de elementos y atributos.
+- Usar comillas dobles para los valores de atributos.
+- Usar una nueva línea para cada elemento.
+- Usar un espacio después de los dos puntos del nombre de cada propiedad.
+- Usar códigos de color hexadecimal (#000000) en vez de nombres propios.
+- Usar códigos de color hexadecimales abreviados siempre que sea posible.
+- Evitar especificar unidades para valores 0. Por ejemplo, margin: 0px se incluye la unidad de pixeles.
+
+**Gherkin Conventions for Readable Specifications**
+
+Entre las convenciones para Gherkin sobre las pruebas de aceptación se deben considerar convenciones, entre algunas de Specflow (<https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/> ) están:
+
+- Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
+- Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
+- Usar verbos finitos y en tiempo presente para las acciones del escenario.
+- Evitar redundancias en la descripción de los pasos en el escenario.
+- Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
 ### 5.1.4. Software Deployment Configuration.
+Se utilizará el servicio de Netlify (<https://www.netlify.com/> ) para realizar el proceso de deployment del landing page de SegurMap. A continuación se presentará el proceso para realizarlo:
+
+1. Crear o tener una cuenta de Netlify ingresando a su página web oficial (<https://www.netlify.com/> ). Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con un correo convencional.
+
+![A screenshot of a sign up box
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.001.png)
+
+2. Una vez con la sesión iniciado, dirigirse a la sección de sitios y seleccionar “Import from Git”
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.002.png)
+
+3. Seleccionamos la opción de GitHub
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.003.png)
+
+4. Seleccionamos la organización con el repositorio a deployar.
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.004.png)
+
+5. Seleccionamos el repositorio y luego nos aparecerá el botón “Deploy Site” al final del formulario. De esta manera, la página ya estaría deployada en unos instantes.
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.005.png)
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.006.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Backlog**||
+|**Date**|4/09/2023|
+|**Time**|22:00 horas (GMT -5)|
+|**Location**|Modalidad remota a través de plataforma Discord|
+|**Prepared by**|Trujillo, Enzo|
+|**Attendees (to planning meeting)**|Todos los miembros de PractiFinder|
+|**Sprint n - 1 Review Summary**|Se creará la organización de PractiFinder en Github y el repositorio de la organización. Además, se implementará el single page landing page.|
+|**Sprint n - 1 Retrospective Summary**|La implementación para el landing se ha realizado con el framework Bootstrap. |
+|**Sprint Goal and User Stories**||
+|**Sprint 1 Velocity**|5|
+|**Sum of Story Points**|**8**|
+
 #### 5.2.1.2. Sprint Backlog 1.
+![](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.007.jpeg)
+
+
+<table><tr><th valign="top"><b>Sprint 1</b></th><th colspan="7" valign="top"><b>Sprint 1</b></th></tr>
+<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work – Item / Task</b></td></tr>
+<tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation (Hours)</b></td><td valign="top"><b>Assigned To</b></td><td valign="top"><b>Status (To-do / In– Process / To-Review / Done)</b></td></tr>
+<tr><td rowspan="2" valign="top">US28</td><td rowspan="2" valign="top">Barra de navegación en landing page</td><td valign="top">E1-US28</td><td valign="top">Navbar </td><td valign="top">Implementación navbar</td><td valign="top">3 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US28</td><td valign="top">Responsive design navbar</td><td valign="top">Responsive design de navbar </td><td valign="top">4 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US30</td><td valign="top">Sección hero de landing page</td><td valign="top">E1-US30</td><td valign="top">Desarrollo de interfaz gráfica </td><td valign="top">Creación del diseño preliminar de la interfaz gráfica.</td><td valign="top">2 hours</td><td valign="top">Luis</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US31</td><td rowspan="2" valign="top">Sección servicios en el landing page</td><td valign="top">E1-US31</td><td valign="top">Desarrollo de servicios section </td><td valign="top">Implementar servicios de la aplicación</td><td valign="top">2 hours</td><td valign="top">Rafael</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US31</td><td valign="top">Responsive design servicios</td><td valign="top">Responsive design de specialities</td><td valign="top">2 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US32</td><td rowspan="2" valign="top">Sección de testimonios en el landing page</td><td valign="top">E1-US32</td><td valign="top">Testimonial section</td><td valign="top">Implementar sección de testimonios</td><td valign="top">3 hours</td><td valign="top">Rafael</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US32</td><td valign="top">Responsive design testimonials</td><td valign="top">Responsive design de testimonials</td><td valign="top">2 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US33</td><td rowspan="2" valign="top">Sección de invitación a la aplicación en landing page</td><td valign="top">E1-US33</td><td valign="top">PreFooter section</td><td valign="top">Implementar de prefooter</td><td valign="top">2 hours</td><td valign="top">Luis</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US33</td><td valign="top">Responsive design prefooter section</td><td valign="top">Responsive design de prefooter</td><td valign="top">2 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Sección de footer a la aplicación en landing page</td><td valign="top">E1-US34</td><td valign="top">Footer section</td><td valign="top">Implementar sección de footer con responsive design</td><td valign="top">0\.5 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+Durante el primer sprint, no se llevaron a cabo pruebas en la aplicación debido a que nuestra labor se centró exclusivamente en la creación de la página de inicio.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y el framework Bootstrap.
+
+![](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.008.png)
+
+![A group of people sitting and working on laptops
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.009.png)
+
+![A close-up of a person writing on a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.010.jpeg)
+
+![A group of people standing together
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.011.png)
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.012.jpeg)
+
+![A screenshot of a chat
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.013.png)
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.014.png)
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.015.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint específico, no hemos empleado servicios web, ya que nuestro enfoque se ha centrado únicamente en la creación de la página de inicio estática. Como resultado, en esta presentación no se incluye documentación relacionada con el uso de servicios web.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Hasta el momento, no hemos empleado servicios web en el proceso de desarrollo de la página de inicio. Por lo tanto, no se han registrado actividades como la creación de cuentas, configuración de recursos en proveedores de servicios en la nube, establecimiento de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras.
@@ -2398,3 +2619,60 @@ Con respecto al despliegue de la página de inicio, esta se ha realizado en la p
 [![deply2.png](https://i.postimg.cc/50hPfD1K/deply2.png)](https://postimg.cc/cgc7m9vf)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+A continuación se presentan capturas de los insights del repositorio del landing page
+
+en Github
+
+![A screenshot of a computer
+
+Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.018.png)
+
+**Conclusiones:**
+
+- En Perú, es evidente que muchos estudiantes y recién graduados enfrentan desafíos para acceder a oportunidades laborales adecuadas. Estos desafíos pueden incluir la falta de información sobre ofertas de empleo, la dificultad para resaltar sus habilidades y la necesidad de un puente efectivo entre el mundo académico y el profesional.
+- Lean UX se presenta como una valiosa herramienta durante el desarrollo de software a través de enfoques ágiles, ya que se centra en la colaboración activa del equipo de desarrollo para comprender las necesidades de los usuarios a los que nos dirigimos, en este caso, estudiantes y empleadores en busca de practicantes.
+- Las entrevistas realizadas con el grupo demográfico al que nos dirigimos nos brindaron una visión detallada de las experiencias y desafíos específicos que enfrentan los usuarios, lo que nos permitió identificar de cerca sus historias y preocupaciones. Esto, a su vez, nos ayudó a determinar cómo podemos abordar estas inquietudes a través de nuestro producto mediante un proceso de búsqueda de necesidades (needfinding).
+- La documentación que se ha elaborado en la primera fase nos proporcionará una base sólida y objetivos claros para la implementación del software, dado que hemos identificado lo necesario para abordar el problema en cuestión. No obstante, somos conscientes de que es probable que realicemos modificaciones al revisar y reevaluar algunas necesidades, con el fin de alcanzar el producto final deseado.
+- GitHub se convierte en una herramienta esencial para la colaboración en equipo en nuestro proyecto, ya que no solo es un sistema de control de versiones, sino que también se integra de manera fluida con diversas plataformas de servicios, incluyendo herramientas de implementación (deployment) como GitHub Pages. Durante esta ocasión, hemos empleado GitHub Pages, y el proceso de implementación ha resultado ser interactivo y de ejecución sencilla.
+- Figma desempeña un papel fundamental en el desarrollo de PractiFinder al permitir una colaboración efectiva entre diseñadores y desarrolladores. Su capacidad para crear prototipos interactivos y diseños detallados ahorra tiempo y recursos, asegurando que la interfaz de usuario sea intuitiva para estudiantes y empleadores. Además, Figma facilita la iteración continua y la retroalimentación en tiempo real, mejorando constantemente la experiencia del usuario a medida que PractiFinder evoluciona.
+
+**Bibliografía:**
+
+Alonso-Fernández, L. M., González-Sánchez, M. A., & Martínez-Córcoles, C. (2022). La transición de los estudiantes universitarios al mundo laboral: un estudio cualitativo de los factores que influyen en su éxito. Revista Española de Orientación y Psicopedagogía, 33(2), 135-150.
+
+Bernal-Rico, J., & Sánchez-Ramos, J. (2021). La transición al empleo de los jóvenes egresados universitarios en España: un análisis de los factores que influyen en su éxito. Revista Española de Educación Comparada, 32, 109-130.
+
+Cano, M. J., & González-Sánchez, M. A. (2020). La transición de los estudiantes universitarios al mundo laboral: una revisión de la literatura. Revista de Investigación Educativa, 38(1), 121-138.
+
+Google Trends. (s.f.). Google Trends. Recuperado de <https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F04dqyb&hl=es> 
+
+Conventional Commits. (2020). Conventional Commits 1.0.0. Recuperado de <https://www.conventionalcommits.org/en/v1.0.0/> 
+
+Semantic Versioning. (s.f.). Semantic Versioning Specification (SemVer). Recuperado de <https://semver.org/> 
+
+W3Schools. (s.f.). HTML5 Syntax. Recuperado de <https://www.w3schools.com/html/html5_syntax.asp> 
+
+Google. (s.f.). HTML/CSS Style Guide. Recuperado de <https://google.github.io/styleguide/htmlcssguide.html> 
+
+SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de <https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/> 
+
+**Anexos:**
+
+- Landing Page Mockup
+- Figma Desktop: <https://www.figma.com/file/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=0%3A1&mode=design&t=ntDuqCA2ZQkw6k6w-1> 
+- Landing Page Wireframe
+- Figma Desktop: <https://www.figma.com/file/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=0%3A1&mode=design&t=ntDuqCA2ZQkw6k6w-1> 
+- Web Applications Prototype
+- Desktop: https://www.figma.com/proto/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=11-5961&t=IbU6MX4hz22At85u-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A159&show-proto-sidebar=1&mode=design
+- Web Applications User Flow Diagrams: 
+- Desktop: https://lucid.app/lucidchart/46d29641-950c-4c47-9071-66039638755f/edit?viewport\_loc=1905%2C-3430%2C5506%2C2874%2C0\_0&invitationId=inv\_e1e9cf71-60d0-49f4-ae71-c5f9ff228671
+- Class diagram: <https://lucid.app/publicSegments/view/fce48120-4b0e-48f6-b65f-6d98342515d5/image.png> 
+- Database diagram: <https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png> 
+- PractiFinder Organization: <https://github.com/orgs/PracticFinder/repositories> 
+- PractiFinder Landing Page Repository: <https://github.com/PracticFinder/landingPage.github.io>   
+- PractiFinder Landing Page deployed: <https://practifinder-upc.netlify.app/>   
+- PractiFinder Acceptance Tests: <https://github.com/PracticFinder/acceptance-tests> 
+- Link de Trello a Product Backlog y Sprint planning: <https://trello.com/w/practifinder>
+
+Video about the product: <https://drive.google.com/file/d/1JIEPb5h84zasjX_aVlHi3aebg0YxuNSA/view?usp=sharing>  
