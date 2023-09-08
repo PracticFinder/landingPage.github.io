@@ -2372,6 +2372,9 @@ Representa los comentarios y calificaciones de los estudiantes sobre una oferta 
 
 # Capítulo V: Product Implementation, Validation & Deployment.
 ## 5.1. Software Configuration Management.
+
+A continuación se procederá a describir cada uno de los productos de software que han sido empleados en el proyecto. Este apartado resultará de utilidad para facilitar que los actuales y futuros desarrolladores puedan colaborar en el ciclo de vida del proyecto. 
+
 ### 5.1.1. Software Development Environment Configuration.
 
 **Project Management**
@@ -2406,18 +2409,19 @@ Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario map
 
 Lucidchart ha sido empleado en el desarrollo de los diagramas de base de datos y diagrama de clases.
 
-**Software Development** 
+**Software Development**
 
-- **Visual Studio Code (<https://code.visualstudio.com/> )** 
+- **Visual Studio Code (<https://code.visualstudio.com/> )**
 
 Visual Studio Code es el que emplearemos para el desarrollo del landing page del proyecto.
 
 - **Github y Git Bash (<https://github.com/> ) (<https://git-scm.com/downloads> )**
 
 Github y Git bash nos permitirán el control de versiones del código y el desarrollo colaborativo del proyecto.
-### 5.1.2. Source Code Management.
-Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page.
 
+### 5.1.2. Source Code Management.
+
+Se ha creado una organización en Github con los miembros del grupo y un repositorio para el landing page.
 Organización: <https://github.com/orgs/PracticFinder/repositories> 
 
 Repositorio de Acceptance Tests: <https://github.com/PracticFinder/acceptance-tests> 
@@ -2428,42 +2432,51 @@ Despliegue del Landing Page en Netlify: <https://practifinder-upc.netlify.app/>�
 
 Las ramas principales en el Gitflow serán las ramas main y developer, donde developer será la principal rama de trabajo, mientras que la rama main tendrá la versión final de la web desplegada en Netlify. Por otro lado, se utilizarán ramas secundarias con el nombre de los features que se estén trabajando (“feature/navbar”, “feature/footer”, como ejemplo). Asimismo, se incluyen el branches para release (branch release) y hotfix (branch hotfix).
 
+<br>
+
 **Commit Conventions**
 
 Para los commits en Github se han utilizado los estándares convencionales versión 1.1.0 (<https://www.conventionalcommits.org/en/v1.0.0/> ) según la estructura:
 
-<type>[optional scope]: <description>
+&lt;type>[optional scope]: <description&gt;,
 
-●      Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+- Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
 
-●      Optional scope: es opcional y representa el alcance del commit.
+- Optional scope: es opcional y representa el alcance del commit.
 
-●      Description: descripción del commit y acciones realizadas.
+- Description: descripción del commit y acciones realizadas.
+
+<br>
 
 **Semantic Versioning**
 
 Los releases se realizan según los estándares de Semantinc Versioning 2.0 (<https://semver.org/> ), según el formato MAJOR.MINOR.PATCH.
 
-●      MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
+- MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
 
-●      MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
+- MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
 
-●      PATCH versión de parche de bug fixes y hotfixes.
+- PATCH versión de parche de bug fixes y hotfixes.
+
+<br>
 
 **HTML Style Guide and Coding Conventions**
 
 Es necesario seguir convenciones estandarizadas de HTML como estructura de la web. Entre las principales de W3 Schools (<https://www.w3schools.com/html/html5_syntax.asp> ) podemos mencionar:
 
-- Siempre declarar el tipo de documento con <!DOCTYPE html>
-- Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
-- Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
-- Siempre poner entre comillas los atributos dentro de un elemento html ( <p class=”name”></p>)
+
+- Siempre declarar el tipo de documento con &lt;!DOCTYPE html&gt;
+- Usar siempre letras en minúsculas para los nombres de los elementos (como &lt;p>, &lt;h1>, &lt;section&gt;, entre otros).
+- Cerrar siempre con los elementos de HTML (por ejemplo &lt;p></p&gt;)
+- Siempre poner entre comillas los atributos dentro de un elemento html ( &lt;p class=”name”></p&gt;)
 - Especificar alt, width, and height para imágenes.
 - Espaciado y signo igual estandarizados.
 - Evitar líneas de código extensas.
-- No olvidar el “<title></title>” al principio.
-- Se recomienda no omitir las etiquetas <body>, <html>, <head>
+- No olvidar el “&lt;title></title&gt;” al principio.
+- Se recomienda no omitir las etiquetas &lt;body>, &lt;html>, &lt;head&gt;
 - Utilizar meta tags al inicio.
+
+<br>
 
 **Google HTML/CSS Style Guide**
 
@@ -2478,6 +2491,8 @@ Algunas de las convenciones de Google en cuanto a HTML y CSS (<https://google.gi
 - Usar códigos de color hexadecimales abreviados siempre que sea posible.
 - Evitar especificar unidades para valores 0. Por ejemplo, margin: 0px se incluye la unidad de pixeles.
 
+<br>
+
 **Gherkin Conventions for Readable Specifications**
 
 Entre las convenciones para Gherkin sobre las pruebas de aceptación se deben considerar convenciones, entre algunas de Specflow (<https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/> ) están:
@@ -2488,66 +2503,95 @@ Entre las convenciones para Gherkin sobre las pruebas de aceptación se deben co
 - Evitar redundancias en la descripción de los pasos en el escenario.
 - Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
 
-### 5.1.3. Source Code Style Guide & Conventions.
-
 ### 5.1.4. Software Deployment Configuration.
-Se utilizará el servicio de Netlify (<https://www.netlify.com/> ) para realizar el proceso de deployment del landing page de SegurMap. A continuación se presentará el proceso para realizarlo:
 
-1. Crear o tener una cuenta de Netlify ingresando a su página web oficial (<https://www.netlify.com/> ). Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con un correo convencional.
+Se utilizará el servicio de Netlify (https://www.netlify.com/ ) para realizar el proceso de deployment del landing page de SegurMap. A continuación se presentará el proceso para realizarlo:
 
-![A screenshot of a sign up box
+1. Crear o tener una cuenta de Netlify ingresando a su página web oficial (https://www.netlify.com/ ). Esta cuenta se puede crear con Github, Gitlab o Bitbucket o con un correo convencional.
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.001.png)
+   <img src="https://cdn.discordapp.com/attachments/906396646886223913/1149488950780624986/image.png" width="800px">
 
 2. Una vez con la sesión iniciado, dirigirse a la sección de sitios y seleccionar “Import from Git”
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.002.png)
+   <img src="https://cdn.discordapp.com/attachments/906396646886223913/1149489327773073408/image.png" width="800px">
 
 3. Seleccionamos la opción de GitHub
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.003.png)
+   <img src="https://cdn.discordapp.com/attachments/906396646886223913/1149489352599146567/image.png" width="800px">
 
 4. Seleccionamos la organización con el repositorio a deployar.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.004.png)
+   <img src="https://cdn.discordapp.com/attachments/906396646886223913/1149489371695816754/image.png" width="800px">
 
 5. Seleccionamos el repositorio y luego nos aparecerá el botón “Deploy Site” al final del formulario. De esta manera, la página ya estaría deployada en unos instantes.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.005.png)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.006.png)
+   <img src="https://cdn.discordapp.com/attachments/906396646886223913/1149489393892065420/image.png" width="800px">
+   
+   <img src="https://cdn.discordapp.com/attachments/906396646886223913/1149489412128907395/image.png" width="800px">
+   
+  <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation.
+
 ### 5.2.1. Sprint 1
+
+### 5.2.1. Sprint Planning 1.
+
 #### 5.2.1.1. Sprint Planning 1.
 
-|**Sprint #**|Sprint 1|
-| :- | :- |
-|**Sprint Planning Backlog**||
-|**Date**|4/09/2023|
-|**Time**|22:00 horas (GMT -5)|
-|**Location**|Modalidad remota a través de plataforma Discord|
-|**Prepared by**|Trujillo, Enzo|
-|**Attendees (to planning meeting)**|Todos los miembros de PractiFinder|
-|**Sprint n - 1 Review Summary**|Se creará la organización de PractiFinder en Github y el repositorio de la organización. Además, se implementará el single page landing page.|
-|**Sprint n - 1 Retrospective Summary**|La implementación para el landing se ha realizado con el framework Bootstrap. |
-|**Sprint Goal and User Stories**||
-|**Sprint 1 Velocity**|5|
-|**Sum of Story Points**|**8**|
+<table style="text-align:left">
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 1</td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Planning Backlog</th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>4/09/2023</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>22:00 horas (GMT -5)</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Modalidad remota a través de plataforma Discord</td>
+  </tr>
+  <tr>
+    <th>Prepared by</th>
+    <td>Trujillo, Enzo</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>Todos los miembros de PractiFinder</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Review Summary</th>
+    <td>Se creará la organización de PractiFinder en Github y el repositorio de la organización. Además, se implementará el single page landing page.</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Retrospective Summary</th>
+    <td>La implementación para el landing se ha realizado con el framework Bootstrap.</td>
+  </tr>
+  <tr>
+    <th colspan="2">Sprint Goal and User Stories</th>
+  </tr>
+  <tr>
+    <th>Sprint 1 Velocity</th>
+    <td>5</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td><strong>8</strong></td>
+  </tr>
+</table>
+
 
 #### 5.2.1.2. Sprint Backlog 1.
-![](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.007.jpeg)
 
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149509833331064842/image.png" width="800px">
 
 <table><tr><th valign="top"><b>Sprint 1</b></th><th colspan="7" valign="top"><b>Sprint 1</b></th></tr>
 <tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work – Item / Task</b></td></tr>
@@ -2561,45 +2605,42 @@ Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f
 <tr><td valign="top">E1-US32</td><td valign="top">Responsive design testimonials</td><td valign="top">Responsive design de testimonials</td><td valign="top">2 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
 <tr><td rowspan="2" valign="top">US33</td><td rowspan="2" valign="top">Sección de invitación a la aplicación en landing page</td><td valign="top">E1-US33</td><td valign="top">PreFooter section</td><td valign="top">Implementar de prefooter</td><td valign="top">2 hours</td><td valign="top">Luis</td><td valign="top">Done</td></tr>
 <tr><td valign="top">E1-US33</td><td valign="top">Responsive design prefooter section</td><td valign="top">Responsive design de prefooter</td><td valign="top">2 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
-<tr><td valign="top">US34</td><td valign="top">Sección de footer a la aplicación en landing page</td><td valign="top">E1-US34</td><td valign="top">Footer section</td><td valign="top">Implementar sección de footer con responsive design</td><td valign="top">0\.5 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Sección de footer a la aplicación en landing page</td><td valign="top">E1-US34</td><td valign="top">Footer section</td><td valign="top">Implementar sección de footer con responsive design</td><td valign="top">0.5 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
 </table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
 Durante el primer sprint, no se llevaron a cabo pruebas en la aplicación debido a que nuestra labor se centró exclusivamente en la creación de la página de inicio.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
 A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y el framework Bootstrap.
 
-![](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.008.png)
 
-![A group of people sitting and working on laptops
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486687873929307/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.009.png)
 
-![A close-up of a person writing on a computer
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486750285172816/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.010.jpeg)
 
-![A group of people standing together
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486785672527892/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.011.png)
 
-![A screenshot of a computer
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486830929068142/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.012.jpeg)
 
-![A screenshot of a chat
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486863325863966/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.013.png)
 
-![A screenshot of a computer
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486884402233414/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.014.png)
 
-![A screenshot of a computer
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486932057931846/image.png" width="800px">
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.015.png)
+
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486973422145598/image.png" width="800px">
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2607,26 +2648,28 @@ Durante este sprint específico, no hemos empleado servicios web, ya que nuestro
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Hasta el momento, no hemos empleado servicios web en el proceso de desarrollo de la página de inicio. Por lo tanto, no se han registrado actividades como la creación de cuentas, configuración de recursos en proveedores de servicios en la nube, establecimiento de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras.
-Con respecto al despliegue de la página de inicio, esta se ha realizado en la plataforma de Netlify. El siguiente enlace corresponde a la página de inicio: https://medmeet.netlify.app/. A continuación, se presentan algunas capturas del servicio de despliegue con Netlify.
+Hasta el momento, no hemos empleado servicios web en el proceso de desarrollo de la página de inicio. Por lo tanto, no se han registrado actividades como la creación de cuentas, configuración de recursos en proveedores de servicios en la nube, establecimiento de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras.<br>
+Con respecto al despliegue de la página de inicio, esta se ha realizado en la plataforma de Netlify. El siguiente enlace corresponde a la página de inicio: https://medmeet.netlify.app/. A continuación, se presentan algunas capturas del servicio de despliegue con Netlify.<br>
 
-**Estado de deployment de la página:**
+Estado de deployment de la página:
 
 [![deply1.png](https://i.postimg.cc/90yL01Qm/deply1.png)](https://postimg.cc/645r1rZg)
 
-**Deploys con registros de commits en Github:**
+Deploys con registros de commits en Github:
 
-[![deply2.png](https://i.postimg.cc/50hPfD1K/deply2.png)](https://postimg.cc/cgc7m9vf)
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149506629201559672/image.png" width="800px">
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 A continuación se presentan capturas de los insights del repositorio del landing page
-
 en Github
 
-![A screenshot of a computer
 
-Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f8d8878.018.png)
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149484542923657266/image.png" width="800px">
+
+<img src="https://cdn.discordapp.com/attachments/909636564529852427/1149505239913869342/image.png" width="800px">
+
+<br><br>
 
 **Conclusiones:**
 
@@ -2639,7 +2682,7 @@ Description automatically generated](Aspose.Words.20dc9531-9e71-4fcf-a346-7e5a7f
 
 **Bibliografía:**
 
-Alonso-Fernández, L. M., González-Sánchez, M. A., & Martínez-Córcoles, C. (2022). La transición de los estudiantes universitarios al mundo laboral: un estudio cualitativo de los factores que influyen en su éxito. Revista Española de Orientación y Psicopedagogía, 33(2), 135-150.
+Alonso-Fernández, L. M., González-Sánchez, M. A., & Martínez-Córcoles, C. (2022). La transición de los estudiantes universitarios al mundo laboral: un estudio cualitativo de los factores que influyen en su éxito. Revista Española de Orientación y Psicopedagogía, 33(2), 135-150. https://www.redalyc.org/pdf/3382/338230789006.pdf
 
 Bernal-Rico, J., & Sánchez-Ramos, J. (2021). La transición al empleo de los jóvenes egresados universitarios en España: un análisis de los factores que influyen en su éxito. Revista Española de Educación Comparada, 32, 109-130.
 
@@ -2649,30 +2692,28 @@ Google Trends. (s.f.). Google Trends. Recuperado de <https://trends.google.com/t
 
 Conventional Commits. (2020). Conventional Commits 1.0.0. Recuperado de <https://www.conventionalcommits.org/en/v1.0.0/> 
 
-Semantic Versioning. (s.f.). Semantic Versioning Specification (SemVer). Recuperado de <https://semver.org/> 
+Semantic Versioning. (s.f.). Semantic Versioning Specification (SemVer). Recuperado de <https://semver.org/>
+W3Schools. (s.f.). HTML5 Syntax. Recuperado de <https://www.w3schools.com/html/html5_syntax.asp>
 
-W3Schools. (s.f.). HTML5 Syntax. Recuperado de <https://www.w3schools.com/html/html5_syntax.asp> 
+Google. (s.f.). HTML/CSS Style Guide. Recuperado de <https://google.github.io/styleguide/htmlcssguide.html>
 
-Google. (s.f.). HTML/CSS Style Guide. Recuperado de <https://google.github.io/styleguide/htmlcssguide.html> 
-
-SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de <https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/> 
+SpecFlow. (s.f.). Gherkin - Conventions for Readable Specifications. Recuperado de <https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/>
 
 **Anexos:**
-
-- Landing Page Mockup
-- Figma Desktop: <https://www.figma.com/file/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=0%3A1&mode=design&t=ntDuqCA2ZQkw6k6w-1> 
-- Landing Page Wireframe
-- Figma Desktop: <https://www.figma.com/file/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=0%3A1&mode=design&t=ntDuqCA2ZQkw6k6w-1> 
-- Web Applications Prototype
-- Desktop: https://www.figma.com/proto/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=11-5961&t=IbU6MX4hz22At85u-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A159&show-proto-sidebar=1&mode=design
-- Web Applications User Flow Diagrams: 
-- Desktop: https://lucid.app/lucidchart/46d29641-950c-4c47-9071-66039638755f/edit?viewport\_loc=1905%2C-3430%2C5506%2C2874%2C0\_0&invitationId=inv\_e1e9cf71-60d0-49f4-ae71-c5f9ff228671
-- Class diagram: <https://lucid.app/publicSegments/view/fce48120-4b0e-48f6-b65f-6d98342515d5/image.png> 
-- Database diagram: <https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png> 
+- Landing Page Mockup<br>
+ Figma Desktop: <https://www.figma.com/file/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=0%3A1&mode=design&t=ntDuqCA2ZQkw6k6w-1>
+- Landing Page Wireframe<br>
+Figma: <https://www.figma.com/file/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=0%3A1&mode=design&t=ntDuqCA2ZQkw6k6w-1>
+- Web Applications Prototype<br>
+Desktop: https://www.figma.com/proto/bPN1pjcTNO6N1zuYr3sz0D/PractiFind-OP?type=design&node-id=11-5961&t=IbU6MX4hz22At85u-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A159&show-proto-sidebar=1&mode=design
+- Web Applications User Flow Diagrams:<br>
+ Desktop: https://lucid.app/lucidchart/46d29641-950c-4c47-9071-66039638755f/edit?viewport\_loc=1905%2C-3430%2C5506%2C2874%2C0\_0&invitationId=inv\_e1e9cf71-60d0-49f4-ae71-c5f9ff228671
+- Class diagram: <https://lucid.app/publicSegments/view/fce48120-4b0e-48f6-b65f-6d98342515d5/image.png>
+- Database diagram: <https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png>
 - PractiFinder Organization: <https://github.com/orgs/PracticFinder/repositories> 
-- PractiFinder Landing Page Repository: <https://github.com/PracticFinder/landingPage.github.io>   
-- PractiFinder Landing Page deployed: <https://practifinder-upc.netlify.app/>   
-- PractiFinder Acceptance Tests: <https://github.com/PracticFinder/acceptance-tests> 
+- PractiFinder Landing Page Repository: <https://github.com/PracticFinder/landingPage.github.io>
+- PractiFinder Landing Page deployed: <https://practifinder-upc.netlify.app/>
+- PractiFinder Acceptance Tests: <https://github.com/PracticFinder/acceptance-tests>
 - Link de Trello a Product Backlog y Sprint planning: <https://trello.com/w/practifinder>
 
-Video about the product: <https://drive.google.com/file/d/1JIEPb5h84zasjX_aVlHi3aebg0YxuNSA/view?usp=sharing>  
+- Video about the product: <https://drive.google.com/file/d/1JIEPb5h84zasjX_aVlHi3aebg0YxuNSA/view?usp=sharing>
