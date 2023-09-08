@@ -1863,22 +1863,21 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 
 [![Frame7.png](https://i.postimg.cc/T3L5RnWH/Frame7.png)](https://postimg.cc/87Gz4J4h)
 
-[![Framew.png](https://i.postimg.cc/fyVDxfsG/Framew.png)](https://postimg.cc/WqcBVrh8)
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149520535370342441/image.png" width="800px">
 
-[![Frame-226.png](https://i.postimg.cc/fbHxyMR8/Frame-226.png)](https://postimg.cc/rdrdYXW4)
+<br>
 
-[![Frame-227.png](https://i.postimg.cc/KzRtgCKx/Frame-227.png)](https://postimg.cc/k6P201Fp)
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149520832629055549/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149520910898974824/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521027223797770/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521073881235536/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521120630931586/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521173579845642/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521213853552640/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521251392569395/image.png" width="500px">
+<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149521298087739402/image.png" width="500px">
 
-[![Frame-229.png](https://i.postimg.cc/43F9ZwWM/Frame-229.png)](https://postimg.cc/XZdJkKSc)
-
-[![Frame-223.png](https://i.postimg.cc/ZYNdt8p7/Frame-223.png)](https://postimg.cc/7bx6STB0)
-
-[![Frame-220.png](https://i.postimg.cc/yYzSVDTV/Frame-220.png)](https://postimg.cc/qgj7wMYY)
-
-[![Frame-224.png](https://i.postimg.cc/Nf72LQNR/Frame-224.png)](https://postimg.cc/kBGgpPP5)
-
-[![Frame-221.png](https://i.postimg.cc/3w6dzNRQ/Frame-221.png)](https://postimg.cc/mcYLHbCm)
-
+<br>
 
 ### 4.3.2. Landing Page Mock-up.
 
@@ -1900,43 +1899,43 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 
 [![Captura-de-pantalla-2023-09-07-131355.png](https://i.postimg.cc/wTyychTc/Captura-de-pantalla-2023-09-07-131355.png)](https://postimg.cc/crWLdt3r)
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477403849138176/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477403849138176/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477467732594829/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477467732594829/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477513727315978/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477513727315978/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477554097500180/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477554097500180/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477596476735488/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477596476735488/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477626092720179/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477626092720179/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477663824674826/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477663824674826/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477702844293252/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477702844293252/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477735358537848/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477735358537848/image.png" width="500px">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477782066298972/image.png" width="800px">
+<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149477782066298972/image.png" width="500px">
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -2132,240 +2131,562 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
+Link: https://lucid.app/publicSegments/view/fce48120-4b0e-48f6-b65f-6d98342515d5/image.png
+
 ![Imagen](https://lucid.app/publicSegments/view/fce48120-4b0e-48f6-b65f-6d98342515d5/image.png)
 
 ### 4.7.2. Class Dictionary.
 
-## ProcesoSeleccion
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">ProcesoSeleccion</td>
+        </tr>
+        <tr>
+            <td colspan="2">Diseñada para rastrear y gestionar los procesos de selección de candidatos para oportunidades laborales. Los atributos proporcionan información clave sobre el proceso, como quién lo está gestionando, a qué oportunidad está vinculado y en qué estado se encuentra.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >proceso_id: int</td>
+            <td colspan="" style="text-align:left;">Este atributo representa un identificador único para el proceso de selección. Es un número entero que se utiliza para distinguir entre diferentes procesos de selección en la aplicación.</td>
+        </tr>
+        <tr>
+            <td >user_id: int</td>
+            <td colspan="" style="text-align:left;">Este atributo representa el identificador único del usuario asociado al proceso de selección. Usualmente, se refiere al responsable de recursos humanos o empleador que está gestionando el proceso.</td>
+        </tr>
+        <tr>
+            <td >oportunidad_id: int</td>
+            <td colspan="" style="text-align:left;">Este atributo representa el identificador único de la oportunidad de empleo a la que está asociado el proceso de selección. Sirve para vincular el proceso con la oferta de trabajo específica.</td>
+        </tr>
+        <tr>
+            <td >estado_proceso: string</td>
+            <td colspan="" style="text-align:left;">Este atributo almacena el estado actual del proceso de selección. Puede tener valores como "pendiente", "entrevista programada", "selección finalizada", etc. para indicar en qué etapa se encuentra el proceso.</td>
+        </tr><tr>
+            <td >fecha_inicio: date</td>
+            <td colspan="" style="text-align:left;">Este atributo registra la fecha en la que comenzó el proceso de selección. Almacena una fecha en formato de fecha (por ejemplo, "YYYY-MM-DD").</td>
+        </tr>
+        <tr>
+            <td >fecha_fin: date</td>
+            <td colspan="" style="text-align:left;">Este atributo registra la fecha en la que finalizó o finalizará el proceso de selección. También almacena una fecha en formato de fecha.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >evaluar_perfiles_candidatos(): void</td>
+            <td colspan="" style="text-align:left;">Este método se encarga de evaluar los perfiles de los candidatos que han aplicado para la oportunidad laboral asociada a este proceso de selección. Puede implicar la revisión de la educación, la experiencia laboral y otras habilidades relevantes de los candidatos.</td>
+        </tr>
+        <tr>
+            <td >registrar_observaciones_entrevistas(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite registrar observaciones y detalles de las entrevistas realizadas con los candidatos. Puede incluir notas detalladas, comentarios y calificaciones sobre el desempeño de los candidatos en las entrevistas.</td>
+        </tr>
+        <tr>
+            <td >extender_ofertas_empleo(): void</td>
+            <td colspan="" style="text-align:left;">Este método se utiliza para extender ofertas de empleo a los candidatos seleccionados en el proceso de selección. Implica completar los detalles de la oferta y confirmar su extensión a los candidatos.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-Diseñada para rastrear y gestionar los procesos de selección de candidatos para oportunidades laborales. Los atributos proporcionan información clave sobre el proceso, como quién lo está gestionando, a qué oportunidad está vinculado y en qué estado se encuentra.
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">Estudiante</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa a un usuario que está utilizando la plataforma para buscar oportunidades de pasantías o empleo. Esta clase almacena información sobre el perfil de un estudiante, incluyendo su nombre, apellido, dirección de correo electrónico, contraseña, foto de perfil y otras características relacionadas con su búsqueda de empleo.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >user_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que se utiliza para distinguir a este estudiante de otros usuarios en la plataforma.</td>
+        </tr>
+        <tr>
+            <td >nombre: String</td>
+            <td colspan="" style="text-align:left;">El nombre del estudiante.</td>
+        </tr>
+        <tr>
+            <td >apellido: String</td>
+            <td colspan="" style="text-align:left;">El apellido del estudiante.</td>
+        </tr>
+        <tr>
+            <td >correo_electronico: String</td>
+            <td colspan="" style="text-align:left;">La dirección de correo electrónico del estudiante, que se utiliza para la comunicación y el inicio de sesión en la plataforma.</td>
+        </tr><tr>
+            <td >contrasena: String</td>
+            <td colspan="" style="text-align:left;">La contraseña de la cuenta del estudiante para garantizar la seguridad de su información.</td>
+        </tr>
+        <tr>
+            <td >foto_perfil: String</td>
+            <td colspan="" style="text-align:left;">La ruta o URL de la foto de perfil del estudiante en la plataforma.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >registrarse(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante registrarse en la plataforma proporcionando la información necesaria, como nombre, apellido, correo electrónico y contraseña. Una vez registrado, se crea una cuenta en la plataforma.</td>
+        </tr>
+        <tr>
+            <td >loguearse(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante iniciar sesión en la plataforma utilizando su dirección de correo electrónico y contraseña registrados. La autenticación exitosa le dará acceso a su cuenta y a las funcionalidades de la plataforma.</td>
+        </tr>
+        <tr>
+            <td >recuperar_contrasena(): void</td>
+            <td colspan="" style="text-align:left;">En caso de olvidar la contraseña, este método permite al estudiante solicitar un proceso de recuperación de contraseña. Se le puede solicitar proporcionar información adicional o recibir un enlace de recuperación en su dirección de correo electrónico.</td>
+        </tr>
+        <tr>
+            <td >cerrar_sesion(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante cerrar sesión en su cuenta, lo que garantiza la seguridad de su información y evita el acceso no autorizado.</td>
+        </tr>
+        <tr>
+            <td >editar_perfil_profesional(): void</td>
+            <td colspan="" style="text-align:left;">Permite al estudiante editar su perfil profesional, lo que incluye detalles como su educación, habilidades y descripción personal. Esto ayuda a personalizar su perfil para atraer a los empleadores.</td>
+        </tr>
+        <tr>
+            <td >agregar_experiencia(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante agregar su experiencia académica y laboral relevante a su perfil. Esto ayuda a destacar sus logros y habilidades pertinentes.</td>
+        </tr>
+        <tr>
+            <td >subir_foto_de_perfil(): void</td>
+            <td colspan="" style="text-align:left;">Permite al estudiante subir o cambiar su foto de perfil en la plataforma para personalizar su perfil y hacerlo más atractivo para los empleadores y otros usuarios.</td>
+        </tr>
+        <tr>
+            <td >establecer_preferencias(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante establecer sus preferencias de búsqueda de empleo en la plataforma, lo que incluye la ubicación, el salario deseado, el tipo de contrato y la industria, entre otros criterios. Esto ayuda a recibir recomendaciones más precisas y relevantes sobre oportunidades laborales.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-### Atributo
-| Nombre          | Descripción                                                                                                  |
-|-----------------|-------------------------------------------------------------------------------------------------------------|
-| proceso_id      | Este atributo representa un identificador único para el proceso de selección. Es un número entero que se utiliza para distinguir entre diferentes procesos de selección en la aplicación. |
-| user_id         | Este atributo representa el identificador único del usuario asociado al proceso de selección. Usualmente, se refiere al responsable de recursos humanos o empleador que está gestionando el proceso. |
-| oportunidad_id  | Este atributo representa el identificador único de la oportunidad de empleo a la que está asociado el proceso de selección. Sirve para vincular el proceso con la oferta de trabajo específica. |
-| estado_proceso  | Este atributo almacena el estado actual del proceso de selección. Puede tener valores como "pendiente", "entrevista programada", "selección finalizada", etc. para indicar en qué etapa se encuentra el proceso. |
-| fecha_inicio    | Este atributo registra la fecha en la que comenzó el proceso de selección. Almacena una fecha en formato de fecha (por ejemplo, "YYYY-MM-DD"). |
-| fecha_fin       | Este atributo registra la fecha en la que finalizó o finalizará el proceso de selección. También almacena una fecha en formato de fecha. |
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">Experiencia</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa la experiencia académica o laboral de un estudiante registrado en la plataforma. Esta experiencia puede incluir prácticas, trabajos anteriores, proyectos relevantes y otros logros relacionados con la educación y el trabajo.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >experiencia_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue una experiencia específica de otras experiencias almacenadas en la plataforma.</td>
+        </tr>
+        <tr>
+            <td >user_id: int </td>
+            <td colspan="" style="text-align:left;">Un identificador que relaciona la experiencia con el estudiante al que pertenece. Esto permite asociar la experiencia con el perfil del estudiante.</td>
+        </tr>
+        <tr>
+            <td >tipo: String</td>
+            <td colspan="" style="text-align:left;">Indica el tipo de experiencia, que puede ser "académica" o "laboral", para diferenciar entre la experiencia educativa y la experiencia en el trabajo.</td>
+        </tr>
+        <tr>
+            <td >descripcion: String</td>
+            <td colspan="" style="text-align:left;">Una descripción detallada de la experiencia, que puede incluir información sobre las tareas realizadas, logros alcanzados y otros detalles relevantes.</td>
+        </tr><tr>
+            <td >fecha_inicio: Date</td>
+            <td colspan="" style="text-align:left;">La fecha de inicio de la experiencia, que indica cuándo comenzó la experiencia académica o laboral.</td>
+        </tr>
+        <tr>
+            <td >fecha_fin: Date</td>
+            <td colspan="" style="text-align:left;">La fecha de finalización de la experiencia, que indica cuándo terminó la experiencia académica o laboral. Puede ser nulo si la experiencia aún no ha finalizado.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >guardarExperiencia(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante guardar una nueva experiencia en la plataforma. Requiere proporcionar información como el tipo de experiencia, la descripción, la fecha de inicio y, opcionalmente, la fecha de finalización.</td>
+        </tr>
+        <tr>
+            <td >actualizarExperiencia(): void</td>
+            <td colspan="" style="text-align:left;">Permite al estudiante actualizar los detalles de una experiencia existente, como la descripción, las fechas de inicio o finalización, etc.</td>
+        </tr>
+        <tr>
+            <td >eliminarExperiencia(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante eliminar una experiencia específica de su perfil. Una vez eliminada, la experiencia ya no estará asociada con el estudiante.</td>
+        </tr>
+        <tr>
+            <td >obtenerIdExperiencia(): void</td>
+            <td colspan="" style="text-align:left;">Proporciona el identificador único de una experiencia específica. Esto puede ser útil para realizar operaciones de búsqueda o actualización de experiencias.</td>
+        </tr>
+        <tr>
+            <td >obtenerExperiencia(): void</td>
+            <td colspan="" style="text-align:left;">Permite al estudiante obtener los detalles completos de una experiencia específica, incluyendo su tipo, descripción y fechas.</td>
+        </tr>
+        <tr>
+            <td >obtenerExperienciaByUsuario(): void</td>
+            <td colspan="" style="text-align:left;">Este método permite al estudiante obtener una lista de todas sus experiencias almacenadas en la plataforma. Esto facilita la visualización y gestión de todas las experiencias académicas y laborales asociadas con su perfil.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-### Método
-| Nombre                                    | Descripción                                                                                                                                                                    |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| evaluar_perfiles_candidatos()             | Este método se encarga de evaluar los perfiles de los candidatos que han aplicado para la oportunidad laboral asociada a este proceso de selección. Puede implicar la revisión de la educación, la experiencia laboral y otras habilidades relevantes de los candidatos. |
-| registrar_observaciones_entrevistas()      | Este método permite registrar observaciones y detalles de las entrevistas realizadas con los candidatos. Puede incluir notas detalladas, comentarios y calificaciones sobre el desempeño de los candidatos en las entrevistas. |
-| extender_ofertas_empleo()                 | Este método se utiliza para extender ofertas de empleo a los candidatos seleccionados en el proceso de selección. Implica completar los detalles de la oferta y confirmar su extensión a los candidatos. |
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">AyudaSoporte</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa las solicitudes de ayuda, asistencia o soporte realizadas por los usuarios de la plataforma, ya sean estudiantes o responsables de recursos humanos / empleadores. Estas solicitudes pueden estar relacionadas con problemas técnicos, consultas generales o cualquier otro tipo de asistencia que los usuarios puedan necesitar para utilizar la plataforma de manera efectiva.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >ayuda_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue una solicitud de ayuda específica de otras solicitudes almacenadas en la plataforma.</td>
+        </tr>
+        <tr>
+            <td >user_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador que relaciona la solicitud de ayuda con el usuario que la ha realizado. Esto permite asociar la solicitud con el perfil del usuario y rastrear quién realizó la solicitud.</td>
+        </tr>
+        <tr>
+            <td >tipo_solicitud: String</td>
+            <td colspan="" style="text-align:left;">Indica el tipo de solicitud que se está realizando. Puede ser una "solicitud de asistencia técnica", una "consulta general", o cualquier otro tipo de solicitud que se pueda definir.</td>
+        </tr>
+        <tr>
+            <td >descripcion: String</td>
+            <td colspan="" style="text-align:left;">Una descripción detallada de la solicitud de ayuda, que proporciona información sobre el problema o la pregunta del usuario.</td>
+        </tr><tr>
+            <td >fecha_creacion: Date	</td>
+            <td colspan="" style="text-align:left;">La fecha en que se creó la solicitud de ayuda, lo que permite rastrear cuándo se realizó la solicitud.</td>
+        </tr>
+        <tr>
+            <td >estado_solicitud: String </td>
+            <td colspan="" style="text-align:left;">Indica el estado actual de la solicitud, que puede ser "pendiente", "en proceso", "resuelta" u otros estados que reflejen el progreso de la asistencia proporcionada.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >acceder_recursos_ayuda_tutoriales()</td>
+            <td colspan="" style="text-align:left;">Este método permite a los usuarios acceder a recursos de ayuda y tutoriales que están disponibles en la plataforma. Estos recursos pueden proporcionar información sobre cómo utilizar la plataforma de manera efectiva y resolver problemas comunes.</td>
+        </tr>
+        <tr>
+            <td >contactar_soporte()</td>
+            <td colspan="" style="text-align:left;">Permite a los usuarios, ya sean estudiantes o responsables de recursos humanos / empleadores, contactar al equipo de soporte de la plataforma para obtener asistencia personalizada. Esto incluye la posibilidad de enviar solicitudes de ayuda específicas o preguntas.</td>
+        </tr>
+        <tr>
+            <td >reportar_problemas()</td>
+            <td colspan="" style="text-align:left;">Permite a los usuarios reportar problemas técnicos o errores que puedan encontrar en la plataforma. Esto es útil para que el equipo de soporte pueda identificar y solucionar problemas de manera eficiente.</td>
+        </tr>
+        <tr>
+            <td >acceder_chat_en_vivo()</td>
+            <td colspan="" style="text-align:left;">Proporciona a los usuarios la opción de acceder a un chat en vivo donde pueden comunicarse directamente con un agente de soporte para resolver problemas o recibir asistencia en tiempo real.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-## Estudiante
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">Empresa</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa a las empresas o empleadores que utilizan la plataforma para publicar ofertas de empleo, gestionar postulaciones y comunicarse con candidatos. Cada instancia de esta clase corresponde a una empresa o empleador registrado en la plataforma.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >empresa_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue a cada empresa o empleador en la plataforma. Permite identificar y gestionar las empresas registradas.</td>
+        </tr>
+        <tr>
+            <td >nombre: String</td>
+            <td colspan="" style="text-align:left;">El nombre de la empresa o empleador, que se utiliza para identificar la entidad en la plataforma.</td>
+        </tr>
+        <tr>
+            <td >descripcion: String</td>
+            <td colspan="" style="text-align:left;">Una descripción de la empresa que proporciona información adicional sobre su actividad, cultura corporativa u otros detalles relevantes.</td>
+        </tr>
+        <tr>
+            <td >correo: String</td>
+            <td colspan="" style="text-align:left;">La dirección de correo electrónico de la empresa, que se utiliza para la comunicación y la gestión de la cuenta.</td>
+        </tr><tr>
+            <td >ubicacion: String</td>
+            <td colspan="" style="text-align:left;">La ubicación física de la empresa, que puede incluir la dirección o la ciudad donde se encuentra.</td>
+        </tr>
+        <tr>
+            <td >contrasenna: String</td>
+            <td colspan="" style="text-align:left;">La contraseña de acceso a la cuenta de la empresa, que se utiliza para garantizar la seguridad de la cuenta.</td>
+        </tr>
+        <tr>
+            <td >sitioweb: String </td>
+            <td colspan="" style="text-align:left;">La dirección del sitio web de la empresa, que permite a los candidatos obtener más información sobre la empresa y sus actividades.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >publicar_oferta_empleo()</td>
+            <td colspan="" style="text-align:left;">Este método permite a la empresa publicar nuevas ofertas de empleo en la plataforma. Las ofertas de empleo son visibles para los candidatos interesados y forman parte del proceso de reclutamiento.</td>
+        </tr>
+        <tr>
+            <td >editar_oferta_empleo()</td>
+            <td colspan="" style="text-align:left;">Permite a la empresa editar las ofertas de empleo existentes en caso de cambios en los requisitos o en la descripción del trabajo. Esto garantiza que las ofertas de empleo estén actualizadas y reflejen las necesidades de la empresa.</td>
+        </tr>
+        <tr>
+            <td >gestionar_postulaciones() </td>
+            <td colspan="" style="text-align:left;">Permite a la empresa gestionar las postulaciones de candidatos a las ofertas de empleo. Esto incluye la revisión de perfiles, cambios de estado de postulaciones y la comunicación con candidatos.</td>
+        </tr>
+        <tr>
+            <td >comunicacion_con_candidatos()</td>
+            <td colspan="" style="text-align:left;">Proporciona a la empresa herramientas para comunicarse con los candidatos de manera efectiva durante el proceso de selección. Esto incluye la programación de entrevistas, el intercambio de mensajes y la extensión de ofertas de empleo.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-Representa a un usuario que está utilizando la plataforma para buscar oportunidades de pasantías o empleo. Esta clase almacena información sobre el perfil de un estudiante, incluyendo su nombre, apellido, dirección de correo electrónico, contraseña, foto de perfil y otras características relacionadas con su búsqueda de empleo.
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">OfertaPractica</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa las ofertas de prácticas publicadas en la plataforma, que están dirigidas a estudiantes en busca de oportunidades de pasantías. Cada instancia de esta clase corresponde a una oferta de práctica registrada en la plataforma.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >oferta_practica_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue a cada oferta de práctica en la plataforma. Permite identificar y gestionar las ofertas de práctica registradas.</td>
+        </tr>
+        <tr>
+            <td >estudiante_id: int</td>
+            <td colspan="" style="text-align:left;">El identificador del estudiante que publica la oferta de práctica. Esto permite conocer quién creó la oferta.</td>
+        </tr>
+        <tr>
+            <td >titulo: String</td>
+            <td colspan="" style="text-align:left;">El título de la oferta de práctica, que proporciona una descripción concisa del puesto de pasantía disponible.</td>
+        </tr>
+        <tr>
+            <td >descripcion: String</td>
+            <td colspan="" style="text-align:left;">Una descripción detallada de la oferta de práctica, que incluye información sobre las responsabilidades, requisitos y beneficios del puesto.</td>
+        </tr><tr>
+            <td >fecha_inicio: Date</td>
+            <td colspan="" style="text-align:left;">La fecha de inicio prevista para la pasantía, que indica cuándo comenzará el estudiante seleccionado.</td>
+        </tr>
+        <tr>
+            <td >fecha_final: Date</td>
+            <td colspan="" style="text-align:left;">La fecha de finalización prevista para la pasantía, que indica cuándo finalizará el período de prácticas.</td>
+        </tr>
+        <tr>
+            <td >requisitos: List<String></td>
+            <td colspan="" style="text-align:left;">Una lista de requisitos que deben cumplir los estudiantes interesados en la pasantía, como habilidades específicas, nivel de estudio, etc.</td>
+        </tr>
+        <tr>
+            <td >tipo_empleo: String</td>
+            <td colspan="" style="text-align:left;">El tipo de empleo asociado a la pasantía, que puede ser "Tiempo completo", "Medio tiempo" u otro.</td>
+        </tr>
+        <tr>
+            <td >salario: float</td>
+            <td colspan="" style="text-align:left;">El salario ofrecido para la pasantía, que indica la remuneración que recibirá el estudiante durante el período de prácticas.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >crearOfertaPractica()</td>
+            <td colspan="" style="text-align:left;">Este método permite a los estudiantes crear nuevas ofertas de práctica en la plataforma. Las ofertas de práctica se vuelven visibles para otros estudiantes interesados.</td>
+        </tr>
+        <tr>
+            <td >editarOfertaPractica()</td>
+            <td colspan="" style="text-align:left;">Permite a los estudiantes editar las ofertas de práctica existentes en caso de cambios en los requisitos o en la descripción del puesto. Esto garantiza que las ofertas de práctica estén actualizadas.</td>
+        </tr>
+        <tr>
+            <td >eliminarOfertaPractica()</td>
+            <td colspan="" style="text-align:left;">Permite a los estudiantes eliminar ofertas de práctica que ya no están disponibles o que desean retirar de la plataforma.</td>
+        </tr>
+        <tr>
+            <td >getOfertaByID()</td>
+            <td colspan="" style="text-align:left;">Permite obtener detalles específicos de una oferta de práctica utilizando su identificador único (oferta_practica_id).</td>
+        </tr>
+        <tr>
+            <td >getOfertaByRequisito()()</td>
+            <td colspan="" style="text-align:left;">Permite buscar ofertas de práctica en función de ciertos requisitos, como habilidades específicas. Esto facilita a los estudiantes encontrar ofertas de práctica que se ajusten a sus perfiles.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-### Atributo
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">ObservacionEntrevista</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa las observaciones y detalles de una entrevista realizada durante un proceso de selección. Permite a los responsables de recursos humanos o empleadores registrar observaciones sobre el desempeño de los candidatos durante las entrevistas y mantener un registro completo de estas interacciones.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >observacion_id: int	</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue cada observación de entrevista en el sistema. Permite identificar y gestionar las observaciones de manera individual.</td>
+        </tr>
+        <tr>
+            <td >proceso_id: int</td>
+            <td colspan="" style="text-align:left;">El identificador del proceso de selección al que está asociada la observación. Esto relaciona la observación con un proceso de selección específico.</td>
+        </tr>
+        <tr>
+            <td >entrevistador: String</td>
+            <td colspan="" style="text-align:left;">El nombre o identificación del entrevistador que realizó la observación. Proporciona información sobre quién realizó la observación.</td>
+        </tr>
+        <tr>
+            <td >fecha_entrevista: Date</td>
+            <td colspan="" style="text-align:left;">La fecha en que se llevó a cabo la entrevista, lo que permite ubicar la observación en el contexto temporal del proceso de selección.</td>
+        </tr><tr>
+            <td >observaciones: String</td>
+            <td colspan="" style="text-align:left;">Las observaciones detalladas sobre el desempeño del candidato durante la entrevista. Esto incluye comentarios, evaluaciones y otros detalles relevantes.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >guardarObservacionEntrevista()</td>
+            <td colspan="" style="text-align:left;">Este método permite guardar una nueva observación de entrevista en el sistema. Se utiliza después de realizar una entrevista para registrar las observaciones sobre el candidato.</td>
+        </tr>
+        <tr>
+            <td >actualizarObservacionEntrevista()</td>
+            <td colspan="" style="text-align:left;">Permite actualizar una observación de entrevista existente en caso de que se requieran modificaciones o adiciones a las observaciones previas.</td>
+        </tr>
+        <tr>
+            <td >eliminarObservacionEntrevista()</td>
+            <td colspan="" style="text-align:left;">Permite eliminar una observación de entrevista si ya no es relevante o si se cometió un error en el registro.</td>
+        </tr>
+        <tr>
+            <td >obtenerIdObservacionEntrevista()</td>
+            <td colspan="" style="text-align:left;">Permite obtener detalles específicos de una observación de entrevista utilizando su identificador único (observacion_id).</td>
+        </tr>
+        <tr>
+            <td >obtenerDatosObservacionEntrevista()</td>
+            <td colspan="" style="text-align:left;">Facilita la obtención de datos y detalles completos de una observación de entrevista, lo que permite a los responsables de recursos humanos revisar y analizar la información registrada.</td>
+        </tr>
+        </tbody>
+</table><br>
 
-| Nombre             | Descripción                                                                                                  |
-|--------------------|-------------------------------------------------------------------------------------------------------------|
-| user_id            | Un identificador único que se utiliza para distinguir a este estudiante de otros usuarios en la plataforma. |
-| nombre             | El nombre del estudiante.                                                                                    |
-| apellido           | El apellido del estudiante.                                                                                  |
-| correo_electronico | La dirección de correo electrónico del estudiante, que se utiliza para la comunicación y el inicio de sesión en la plataforma. |
-| contrasena         | La contraseña de la cuenta del estudiante para garantizar la seguridad de su información.                  |
-| foto_perfil        | La ruta o URL de la foto de perfil del estudiante en la plataforma.                                          |
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">Postulación</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa la postulación de un estudiante a una oportunidad de pasantía o empleo en la plataforma. Permite registrar la relación entre un estudiante, una oportunidad específica y el estado de su postulación, lo que facilita la gestión de las solicitudes de los estudiantes y el seguimiento de los procesos de selección.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >postulacion_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue cada postulación en el sistema. Proporciona un medio para identificar y gestionar postulaciones de manera individual.</td>
+        </tr><tr>
+            <td >user_id: int	</td>
+            <td colspan="" style="text-align:left;">El identificador del estudiante que realiza la postulación. Relaciona la postulación con un usuario estudiante específico.</td>
+        </tr><tr>
+            <td >oportunidad_id: int	</td>
+            <td colspan="" style="text-align:left;">El identificador de la oportunidad a la que se postula el estudiante. Esto establece la relación entre la postulación y una oportunidad de pasantía o empleo en particular.</td>
+        </tr><tr>
+            <td >estado_postulacion: String</td>
+            <td colspan="" style="text-align:left;">El estado actual de la postulación, que puede ser "pendiente," "aceptada," "rechazada" u otro estado relevante. Indica el progreso de la postulación.</td>
+        </tr><tr>
+            <td >fecha_postulacion: Date </td>
+            <td colspan="" style="text-align:left;">La fecha en que se realizó la postulación. Permite registrar cuándo se realizó la postulación.</td>
+        </tr><tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr><tr>
+            <td >guardarPostulacion()</td>
+            <td colspan="" style="text-align:left;">Este método se utiliza para guardar una nueva postulación en el sistema cuando un estudiante se postula a una oportunidad específica.</td>
+        </tr><tr>
+            <td >actualizarEstado()</td>
+            <td colspan="" style="text-align:left;">Permite actualizar el estado de una postulación existente, por ejemplo, cambiarla de "pendiente" a "aceptada" o "rechazada" cuando se toma una decisión sobre la postulación.</td>
+        </tr><tr>
+            <td >eliminarPostulacion()</td>
+            <td colspan="" style="text-align:left;">Se utiliza para eliminar una postulación si ya no es relevante o si se cometió un error en el registro.</td>
+        </tr><tr>
+            <td >obtenerPostulacion()</td>
+            <td colspan="" style="text-align:left;">Facilita la obtención de detalles específicos de una postulación utilizando su identificador único (postulacion_id).</td>
+        </tr>
+        </tbody>
+</table><br>
 
-### Método
-
-| Nombre             | Descripción                                                                                                  |
-|--------------------|-------------------------------------------------------------------------------------------------------------|
-| registrarse        | Este método permite al estudiante registrarse en la plataforma proporcionando la información necesaria, como nombre, apellido, correo electrónico y contraseña. Una vez registrado, se crea una cuenta en la plataforma. |
-| loguearse          | Este método permite al estudiante iniciar sesión en la plataforma utilizando su dirección de correo electrónico y contraseña registrados. La autenticación exitosa le dará acceso a su cuenta y a las funcionalidades de la plataforma. |
-| recuperar_contrasena | En caso de olvidar la contraseña, este método permite al estudiante solicitar un proceso de recuperación de contraseña. Se le puede solicitar proporcionar información adicional o recibir un enlace de recuperación en su dirección de correo electrónico. |
-| cerrar_sesion      | Este método permite al estudiante cerrar sesión en su cuenta, lo que garantiza la seguridad de su información y evita el acceso no autorizado. |
-| editar_perfil_profesional | Permite al estudiante editar su perfil profesional, lo que incluye detalles como su educación, habilidades y descripción personal. Esto ayuda a personalizar su perfil para atraer a los empleadores. |
-| agregar_experiencia | Este método permite al estudiante agregar su experiencia académica y laboral relevante a su perfil. Esto ayuda a destacar sus logros y habilidades pertinentes. |
-| subir_foto_de_perfil | Permite al estudiante subir o cambiar su foto de perfil en la plataforma para personalizar su perfil y hacerlo más atractivo para los empleadores y otros usuarios. |
-| establecer_preferencias | Este método permite al estudiante establecer sus preferencias de búsqueda de empleo en la plataforma, lo que incluye la ubicación, el salario deseado, el tipo de contrato y la industria, entre otros criterios. Esto ayuda a recibir recomendaciones más precisas y relevantes sobre oportunidades laborales. |
-
-## Experiencia
-
-Representa la experiencia académica o laboral de un estudiante registrado en la plataforma. Esta experiencia puede incluir prácticas, trabajos anteriores, proyectos relevantes y otros logros relacionados con la educación y el trabajo.
-
-### Atributo
-
-| Atributo        | Descripción                                                                                                      |
-|-----------------|-----------------------------------------------------------------------------------------------------------------|
-| experiencia_id  | Un identificador único que distingue una experiencia específica de otras experiencias almacenadas en la plataforma. |
-| user_id         | Un identificador que relaciona la experiencia con el estudiante al que pertenece.                                 |
-| tipo            | Indica el tipo de experiencia, que puede ser "académica" o "laboral", para diferenciar entre la experiencia educativa y la experiencia en el trabajo. |
-| descripcion     | Una descripción detallada de la experiencia, que puede incluir información sobre las tareas realizadas, logros alcanzados y otros detalles relevantes. |
-| fecha_inicio    | La fecha de inicio de la experiencia, que indica cuándo comenzó la experiencia académica o laboral.               |
-| fecha_fin       | La fecha de finalización de la experiencia, que indica cuándo terminó la experiencia académica o laboral. Puede ser nulo si la experiencia aún no ha finalizado. |
-
-### Método
-
-| Método                     | Descripción                                                                                                                                       |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| guardarExperiencia()       | Este método permite al estudiante guardar una nueva experiencia en la plataforma. Requiere proporcionar información como el tipo de experiencia, la descripción, la fecha de inicio y, opcionalmente, la fecha de finalización. |
-| actualizarExperiencia()    | Permite al estudiante actualizar los detalles de una experiencia existente, como la descripción, las fechas de inicio o finalización, etc.        |
-| eliminarExperiencia()      | Este método permite al estudiante eliminar una experiencia específica de su perfil. Una vez eliminada, la experiencia ya no estará asociada con el estudiante.                         |
-| obtenerIdExperiencia()     | Proporciona el identificador único de una experiencia específica. Esto puede ser útil para realizar operaciones de búsqueda o actualización de experiencias.               |
-| obtenerExperiencia()       | Permite al estudiante obtener los detalles completos de una experiencia específica, incluyendo su tipo, descripción y fechas.                                    |
-| obtenerExperienciaByUsuario() | Este método permite al estudiante obtener una lista de todas sus experiencias almacenadas en la plataforma. Esto facilita la visualización y gestión de todas las experiencias académicas y laborales asociadas con su perfil.                 |
-
-## AyudaSoporte
-
-Representa las solicitudes de ayuda, asistencia o soporte realizadas por los usuarios de la plataforma, ya sean estudiantes o responsables de recursos humanos / empleadores. Estas solicitudes pueden estar relacionadas con problemas técnicos, consultas generales o cualquier otro tipo de asistencia que los usuarios puedan necesitar para utilizar la plataforma de manera efectiva.
-
-### Atributo
-
-| Atributo          | Descripción                                                                                                                                   |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| ayuda_id          | Un identificador único que distingue una solicitud de ayuda específica de otras solicitudes almacenadas en la plataforma.                   |
-| user_id           | Un identificador que relaciona la solicitud de ayuda con el usuario que la ha realizado. Esto permite asociar la solicitud con el perfil del usuario y rastrear quién realizó la solicitud. |
-| tipo_solicitud    | Indica el tipo de solicitud que se está realizando. Puede ser una "solicitud de asistencia técnica", una "consulta general", o cualquier otro tipo de solicitud que se pueda definir. |
-| descripcion       | Una descripción detallada de la solicitud de ayuda, que proporciona información sobre el problema o la pregunta del usuario.                |
-| fecha_creacion    | La fecha en que se creó la solicitud de ayuda, lo que permite rastrear cuándo se realizó la solicitud.                                       |
-| estado_solicitud  | Indica el estado actual de la solicitud, que puede ser "pendiente", "en proceso", "resuelta" u otros estados que reflejen el progreso de la asistencia proporcionada. |
-
-### Método
-
-| Método                                 | Descripción                                                                                                                                                                                                                                                                                  |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| acceder_recursos_ayuda_tutoriales()     | Este método permite a los usuarios acceder a recursos de ayuda y tutoriales que están disponibles en la plataforma. Estos recursos pueden proporcionar información sobre cómo utilizar la plataforma de manera efectiva y resolver problemas comunes.                                                                |
-| contactar_soporte()                     | Permite a los usuarios, ya sean estudiantes o responsables de recursos humanos / empleadores, contactar al equipo de soporte de la plataforma para obtener asistencia personalizada. Esto incluye la posibilidad de enviar solicitudes de ayuda específicas o preguntas.                                                            |
-| reportar_problemas()                    | Permite a los usuarios reportar problemas técnicos o errores que puedan encontrar en la plataforma. Esto es útil para que el equipo de soporte pueda identificar y solucionar problemas de manera eficiente.                                                                                   |
-| acceder_chat_en_vivo()                  | Proporciona a los usuarios la opción de acceder a un chat en vivo donde pueden comunicarse directamente con un agente de soporte para resolver problemas o recibir asistencia en tiempo real.                                                                                                   |
-## Empresa
-
-Representa a las empresas o empleadores que utilizan la plataforma para publicar ofertas de empleo, gestionar postulaciones y comunicarse con candidatos. Cada instancia de esta clase corresponde a una empresa o empleador registrado en la plataforma.
-
-### Atributo
-
-| Atributo     | Descripción                                                                                                                |
-|--------------|---------------------------------------------------------------------------------------------------------------------------|
-| empresa_id   | Un identificador único que distingue a cada empresa o empleador en la plataforma. Permite identificar y gestionar las empresas registradas.                                            |
-| nombre       | El nombre de la empresa o empleador, que se utiliza para identificar la entidad en la plataforma.                         |
-| descripcion  | Una descripción de la empresa que proporciona información adicional sobre su actividad, cultura corporativa u otros detalles relevantes.                                            |
-| correo       | La dirección de correo electrónico de la empresa, que se utiliza para la comunicación y la gestión de la cuenta.             |
-| ubicacion    | La ubicación física de la empresa, que puede incluir la dirección o la ciudad donde se encuentra.                         |
-| contrasenna  | La contraseña de acceso a la cuenta de la empresa, que se utiliza para garantizar la seguridad de la cuenta.                |
-| sitioweb     | La dirección del sitio web de la empresa, que permite a los candidatos obtener más información sobre la empresa y sus actividades.                                            |
-
-### Método
-
-| Método                          | Descripción                                                                                                                                                                                     |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| publicar_oferta_empleo()         | Este método permite a la empresa publicar nuevas ofertas de empleo en la plataforma. Las ofertas de empleo son visibles para los candidatos interesados y forman parte del proceso de reclutamiento. |
-| editar_oferta_empleo()          | Permite a la empresa editar las ofertas de empleo existentes en caso de cambios en los requisitos o en la descripción del trabajo. Esto garantiza que las ofertas de empleo estén actualizadas y reflejen las necesidades de la empresa.                                    |
-| gestionar_postulaciones()       | Permite a la empresa gestionar las postulaciones de candidatos a las ofertas de empleo. Esto incluye la revisión de perfiles, cambios de estado de postulaciones y la comunicación con candidatos.                                          |
-| comunicacion_con_candidatos()  | Proporciona a la empresa herramientas para comunicarse con los candidatos de manera efectiva durante el proceso de selección. Esto incluye la programación de entrevistas, el intercambio de mensajes y la extensión de ofertas de empleo.                   |
-
-
-## OfertaPractica
-
-Representa las ofertas de prácticas publicadas en la plataforma, que están dirigidas a estudiantes en busca de oportunidades de pasantías. Cada instancia de esta clase corresponde a una oferta de práctica registrada en la plataforma.
-
-### Atributo
-
-| Atributo            | Descripción                                                                                                                                                                                         |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| oferta_practica_id  | Un identificador único que distingue a cada oferta de práctica en la plataforma. Permite identificar y gestionar las ofertas de práctica registradas.                                            |
-| estudiante_id       | El identificador del estudiante que publica la oferta de práctica. Esto permite conocer quién creó la oferta.                                                                                    |
-| titulo              | El título de la oferta de práctica, que proporciona una descripción concisa del puesto de pasantía disponible.                                                                                      |
-| descripcion         | Una descripción detallada de la oferta de práctica, que incluye información sobre las responsabilidades, requisitos y beneficios del puesto.                                                      |
-| fecha_inicio        | La fecha de inicio prevista para la pasantía, que indica cuándo comenzará el estudiante seleccionado.                                                                                                 |
-| fecha_final         | La fecha de finalización prevista para la pasantía, que indica cuándo finalizará el período de prácticas.                                                                                              |
-| requisitos          | Una lista de requisitos que deben cumplir los estudiantes interesados en la pasantía, como habilidades específicas, nivel de estudio, etc.                                                           |
-| tipo_empleo         | El tipo de empleo asociado a la pasantía, que puede ser "Tiempo completo", "Medio tiempo" u otro.                                                                                                    |
-| salario             | El salario ofrecido para la pasantía, que indica la remuneración que recibirá el estudiante durante el período de prácticas.                                                                        |
-
-### Método
-
-| Método                     | Descripción                                                                                                                                                                                               |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| crearOfertaPractica()       | Este método permite a los estudiantes crear nuevas ofertas de práctica en la plataforma. Las ofertas de práctica se vuelven visibles para otros estudiantes interesados.                                 |
-| editarOfertaPractica()      | Permite a los estudiantes editar las ofertas de práctica existentes en caso de cambios en los requisitos o en la descripción del puesto. Esto garantiza que las ofertas de práctica estén actualizadas.  |
-| eliminarOfertaPractica()    | Permite a los estudiantes eliminar ofertas de práctica que ya no están disponibles o que desean retirar de la plataforma.                                                                           |
-| getOfertaByID()             | Permite obtener detalles específicos de una oferta de práctica utilizando su identificador único (oferta_practica_id).                                                                                |
-| getOfertaByRequisito()      | Permite buscar ofertas de práctica en función de ciertos requisitos, como habilidades específicas. Esto facilita a los estudiantes encontrar ofertas de práctica que se ajusten a sus perfiles.     |
-
-
-## ObservacionEntrevista
-
-Representa las observaciones y detalles de una entrevista realizada durante un proceso de selección. Permite a los responsables de recursos humanos o empleadores registrar observaciones sobre el desempeño de los candidatos durante las entrevistas y mantener un registro completo de estas interacciones.
-
-### Atributo
-
-| Atributo           | Descripción                                                                                                                                                                                        |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| observacion_id     | Un identificador único que distingue cada observación de entrevista en el sistema. Permite identificar y gestionar las observaciones de manera individual.                                         |
-| proceso_id         | El identificador del proceso de selección al que está asociada la observación. Esto relaciona la observación con un proceso de selección específico.                                               |
-| entrevistador      | El nombre o identificación del entrevistador que realizó la observación. Proporciona información sobre quién realizó la observación.                                                                |
-| fecha_entrevista   | La fecha en que se llevó a cabo la entrevista, lo que permite ubicar la observación en el contexto temporal del proceso de selección.                                                            |
-| observaciones      | Las observaciones detalladas sobre el desempeño del candidato durante la entrevista. Esto incluye comentarios, evaluaciones y otros detalles relevantes.                                        |
-
-### Método
-
-| Método                               | Descripción                                                                                                                                                                                              |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| guardarObservacionEntrevista()        | Este método permite guardar una nueva observación de entrevista en el sistema. Se utiliza después de realizar una entrevista para registrar las observaciones sobre el candidato.                    |
-| actualizarObservacionEntrevista()     | Permite actualizar una observación de entrevista existente en caso de que se requieran modificaciones o adiciones a las observaciones previas.                                                           |
-| eliminarObservacionEntrevista()       | Permite eliminar una observación de entrevista si ya no es relevante o si se cometió un error en el registro.                                                                                             |
-| obtenerIdObservacionEntrevista()      | Permite obtener detalles específicos de una observación de entrevista utilizando su identificador único (observacion_id).                                                                               |
-| obtenerDatosObservacionEntrevista()   | Facilita la obtención de datos y detalles completos de una observación de entrevista, lo que permite a los responsables de recursos humanos revisar y analizar la información registrada.          |
-
-
-## Postulacion
-
-Representa la postulación de un estudiante a una oportunidad de pasantía o empleo en la plataforma. Permite registrar la relación entre un estudiante, una oportunidad específica y el estado de su postulación, lo que facilita la gestión de las solicitudes de los estudiantes y el seguimiento de los procesos de selección.
-
-### Atributo
-
-| Atributo           | Descripción                                                                                                                        |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| postulacion_id     | Un identificador único que distingue cada postulación en el sistema. Proporciona un medio para identificar y gestionar postulaciones de manera individual.                                         |
-| user_id            | El identificador del estudiante que realiza la postulación. Relaciona la postulación con un usuario estudiante específico.            |
-| oportunidad_id     | El identificador de la oportunidad a la que se postula el estudiante. Esto establece la relación entre la postulación y una oportunidad de pasantía o empleo en particular.    |
-| estado_postulacion | El estado actual de la postulación, que puede ser "pendiente," "aceptada," "rechazada" u otro estado relevante. Indica el progreso de la postulación.                      |
-| fecha_postulacion  | La fecha en que se realizó la postulación. Permite registrar cuándo se realizó la postulación.                                      |
-
-### Método
-
-| Método               | Descripción                                                                                                                             |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| guardarPostulacion() | Este método se utiliza para guardar una nueva postulación en el sistema cuando un estudiante se postula a una oportunidad específica.   |
-| actualizarEstado()   | Permite actualizar el estado de una postulación existente, por ejemplo, cambiarla de "pendiente" a "aceptada" o "rechazada" cuando se toma una decisión sobre la postulación.  |
-| eliminarPostulacion()| Se utiliza para eliminar una postulación si ya no es relevante o si se cometió un error en el registro.                                |
-| obtenerPostulacion() | Facilita la obtención de detalles específicos de una postulación utilizando su identificador único (postulacion_id).                    |
-
-
-## Comentarios
-
-Representa los comentarios y calificaciones de los estudiantes sobre una oferta de práctica específica en la plataforma. Permite a los estudiantes compartir sus experiencias y opiniones con respecto a una oferta de práctica, y también proporciona una calificación asociada. Esto puede ayudar a otros estudiantes a tomar decisiones informadas al buscar oportunidades de práctica.
-
-### Atributo
-
-| Atributo           | Descripción                                                                                                                        |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| comentario_id      | Un identificador único que distingue cada comentario en el sistema. Proporciona un medio para identificar y gestionar comentarios de manera individual.                                         |
-| estudiante_id      | El identificador del estudiante que crea el comentario y la calificación. Asocia el comentario con un estudiante específico.            |
-| oferta_practica_id | El identificador de la oferta de práctica a la que se refiere el comentario. Establece la relación entre el comentario y una oferta de práctica en particular.    |
-| comentario         | El contenido del comentario creado por el estudiante. Permite a los estudiantes expresar sus opiniones y compartir sus experiencias con respecto a la oferta de práctica. |
-| calificacion       | La calificación asignada por el estudiante a la oferta de práctica. Puede ser en forma de estrellas, una puntuación numérica o cualquier otro sistema de calificación definido. Indica la valoración general de la oferta por parte del estudiante. |
-
-### Método
-
-| Método              | Descripción                                                                                                                                |
-|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| crearComentario()   | Este método se utiliza para que un estudiante cree un nuevo comentario y calificación para una oferta de práctica específica.           |
-| editarComentario()  | Permite a un estudiante editar un comentario y/o calificación previamente creado.                                                          |
-| eliminarComentario()| Se utiliza para que un estudiante elimine un comentario y calificación si ya no son relevantes o si se cometió un error en el registro.   |
-| calificarComentario()| Facilita la actualización de la calificación asignada por el estudiante a una oferta de práctica.                                       |
-
-
-
-## 4.8. Database Design.
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td style="text-align:center;" colspan="2">Comentarios</td>
+        </tr>
+        <tr>
+            <td colspan="2">Representa los comentarios y calificaciones de los estudiantes sobre una oferta de práctica específica en la plataforma. Permite a los estudiantes compartir sus experiencias y opiniones con respecto a una oferta de práctica, y también proporciona una calificación asociada. Esto puede ayudar a otros estudiantes a tomar decisiones informadas al buscar oportunidades de práctica.</td>
+        </tr>        
+        <tr>
+            <td >Atributo</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >comentario_id: int</td>
+            <td colspan="" style="text-align:left;">Un identificador único que distingue cada comentario en el sistema. Proporciona un medio para identificar y gestionar comentarios de manera individual.</td>
+        </tr>
+        <tr>
+            <td >studiante_id: int</td>
+            <td colspan="" style="text-align:left;">El identificador del estudiante que crea el comentario y la calificación. Asocia el comentario con un estudiante específico.</td>
+        </tr>
+        <tr>
+            <td >oferta_practica_id: int</td>
+            <td colspan="" style="text-align:left;">El identificador de la oferta de práctica a la que se refiere el comentario. Establece la relación entre el comentario y una oferta de práctica en particular.</td>
+        </tr>
+        <tr>
+            <td >comentario: String</td>
+            <td colspan="" style="text-align:left;">El contenido del comentario creado por el estudiante. Permite a los estudiantes expresar sus opiniones y compartir sus experiencias con respecto a la oferta de práctica.</td>
+        </tr>
+        <tr>
+            <td >calificacion: String</td>
+            <td colspan="" style="text-align:left;">La calificación asignada por el estudiante a la oferta de práctica. Puede ser en forma de estrellas, una puntuación numérica o cualquier otro sistema de calificación definido. Indica la valoración general de la oferta por parte del estudiante.</td>
+        </tr>
+        <tr>
+            <td >Método</td>
+            <td colspan="" style="text-align:left;">Descripción</td>
+        </tr>
+        <tr>
+            <td >crearComentario()</td>
+            <td colspan="" style="text-align:left;">Este método se utiliza para que un estudiante cree un nuevo comentario y calificación para una oferta de práctica específica.</td>
+        </tr>
+        <tr>
+            <td >editarComentario()</td>
+            <td colspan="" style="text-align:left;">Permite a un estudiante editar un comentario y/o calificación previamente creado.</td>
+        </tr>
+        <tr>
+            <td >eliminarComentario()</td>
+            <td colspan="" style="text-align:left;">Se utiliza para que un estudiante elimine un comentario y calificación si ya no son relevantes o si se cometió un error en el registro.</td>
+        </tr>
+        <tr>
+            <td >calificarComentario()</td>
+            <td colspan="" style="text-align:left;">Facilita la actualización de la calificación asignada por el estudiante a una oferta de práctica.</td>
+        </tr>
+        </tbody>
+</table><br>
 
 ### 4.8.1. Database Diagram.
+
+Link: https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png 
 
 ![Imagen](https://lucid.app/publicSegments/view/a6a2cfdd-ad30-475c-ab71-ea87971d7293/image.png)
 
