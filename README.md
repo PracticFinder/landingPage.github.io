@@ -33,8 +33,6 @@ Agosto del 2023
 ---
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de la modificación |
-
 <table border="1" width="70%" style="text-align:center;">
     <thead>
         <tr style="background-color: #a4c2f4;">
@@ -49,19 +47,40 @@ Agosto del 2023
             <td rowspan="4">TB1</td>
             <td rowspan="4">11/09/2023</td>
             <td>Alejo Cardenas, Luis Angel</td>
-            <td>Registrarme</td>
+            <td>- Documento readme.md<br>
+- User Stories<br>
+- Entrevista<br>
+- Creación de los Mock ups y Wireframes
+        </td>
         </tr>
         <tr>
             <td>Moreno Vergara, Johan Raúl</td>
-            <td>Iniciar sesión</td>
+            <td>- Descripción de la Startup
+- Análisis de los nuestros competidores
+- User Stories
+- Landing Page
+- Documentación en Markdown
+- Entrevistas 
+</td>
         </tr>
         <tr>
             <td>Primo Estrada, Rafael Wimmer</td>
-            <td>Recuperar contraseña</td>
+            <td>- User stories<br>
+- As-Is mapping<br>
+- To-Be mapping<br>
+- Diagramas<br>
+- Ayuda con la documentación<br>
+- Panel de las actividades del Trello
+</td>
         </tr>
         <tr>
             <td>Trujillo Acosta, Enzo Paolo	</td>
-            <td>Salir o borrar la cuenta</td>
+            <td>- Ayuda con la documentación<br>
+- Creación de los Mock ups y Wireframes<br>
+- Desarrollo de Landing Page<br>
+- Edición del vídeo expositivo<br>
+- PPT
+</td>
         </tr>
     </tbody>
     
@@ -100,8 +119,8 @@ _ABET – EAC - Student Outcome 3: Capacidad de comunicarse efectivamente con un
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. |<b>Enzo Trujillo Acosta<br>-TB1:</b><br>Realicé algunas entrevistas, los user stories, epics, así como también el diseño del aplicativo tanto wireframes como mock ups y sus respectivos diagramas de flujo.<br><br><b>Johan Moreno Vergara<br>-TB1:</b><br>Realicé reuniones con mi equipo y comunicamos nuestras ideas sobre ciertos puntos de nuestro trabajo. Realicé entrevistas a nuestro segmento objetivo. Conversamos con el profesor del curso para comunicarle nuestra startup.<br><br><b>Rafael Primo Estrada<br>-TB1:</b><br>Realicé una entrevista, y participé activamente con mi grupo de trabajo para a lograr el objetivo de esta entrega.<br><br><b>Luis Alejo Cardenas<br>-TB1:</b><br>Realicé dos entrevistas, una de cada segmento objetivo. Además, realicé algunas user stories y epic, a su vez realicé le modelo C4 del presente proyecto|La TB1 nos ayudó a trabajar en equipo y a la vez mejorar nuestra comunicación entre miembros, gracias a esto hemos podido desarrollar el software, una colaboración efectiva, el uso de nuestras habilidades y conococimientos diversos, y distribuir las tareas del trabajo de manera equitativa, lo cual resulta en un proyecto de alta calidad y exitoso.Además, las entrevistas que realizamos nos ayudaron a comprender las necesidades de nuestros usuarios y adaptar nuestro proyecto a dichas necesidades.|
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. |<b>Enzo Trujillo Acosta<br>-TB1:</b><br>Realicé algunas entrevistas, los user stories, epics, así como también el diseño del aplicativo tanto wireframes como mock ups y sus respectivos diagramas de flujo.<br><br><b>Johan Moreno Vergara<br>-TB1:</b><br>Realizamos la documentación en formato word como en markdown.<br><br><b>Rafael Primo Estrada<br>-TB1:</b><br>Realicé algunos diagramas de clase, diccionarios y base de datos, y ayudé redactando las conclusiones del proyecto.<br><br><b>Luis Alejo Cardenas<br>-TB1:</b><br>Me encargué de transcribir una gran parte del proyecto a MarkDown y hacer los wireframes del LandingPage utilizando Figma| La documentación nos permitió comprender mejor cada punto de nuestro proyecto. La herramienta Figma para el diseño del landing page y aplicaciones web resulta ser una herramienta tremendamente útil a la hora de diseñar prototipos previos al desarrollo del landin page, gracias a sus funciones colaborativas en tiempo real y la conformación de proyectos organizados con la función de organizaciones.|
 
 ---
 
@@ -120,7 +139,7 @@ Nuestra misión es facilitar la transición exitosa entre estudiantes y recién 
 <table border="1" width="70%" style="text-align:center;">
     <tbody style="text-align:left;">
         <tr >
-            <td><img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148756119347544094/43178475.png" alt="StudiStay" width="1000px"</td>
+            <td><img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148756119347544094/43178475.png" alt="StudiStay" width="1000px"></td>
             <td style="text-align:left;"><b>Alejo Cardenas, Luis Angel</b><br>
 <em>Ingeniería de Software</em><br>
 Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación en C++, Python, HTML y CSS. Además, soy bueno haciendo cálculos matemáticos, me comprometo a apoyar a mi equipo en todo lo posible y ser responsable con cada actividad que se me asigne.</td>
@@ -128,7 +147,7 @@ Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo
     </tbody>
     <tbody style="text-align:left;">
         <tr >
-            <td><img src="https://cdn.discordapp.com/attachments/906396646886223913/1149023245484441620/image.png" alt="StudiStay" width="1000px"</td>
+            <td><img src="https://cdn.discordapp.com/attachments/906396646886223913/1149023245484441620/image.png" alt="StudiStay" width="1000px"></td>
             <td style="text-align:left;"><b>Moreno Vergara, Johan Raúl</b><br>
 <em>Ingeniería de Software</em><br>
 Soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos en lenguajes como C++, Python, HTML, CSS y un poco de JavaScript. Me gusta entrenar, hace poco me aceptaron en la selección de Sanda de la UPC. Me comprometo a usar mis conocimientos para hacer un buen trabajo junto a mis compañeros.</td>
@@ -136,7 +155,7 @@ Soy estudiante de la carrera de Ingeniería de Software. Tengo conocimientos en 
     </tbody>
     <tbody style="text-align:left;">
         <tr >
-            <td><img src="https://cdn.discordapp.com/attachments/906396646886223913/1149023301419663410/image.png" alt="StudiStay" width="1000px"</td>
+            <td><img src="https://cdn.discordapp.com/attachments/906396646886223913/1149023301419663410/image.png" alt="StudiStay" width="1000px"></td>
             <td style="text-align:left;"><b>Primo Estrada, Rafael Wimmer</b><br>
 <em>Ingeniería de Software</em><br>
 Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación en C++, C#, Java, Kotlin, HTML y CSS. Además, me comprometo a apoyar responsablemente y ser puntual a mi grupo con lo que se me asigne del trabajo final y en cada actividad de este curso. </td>
@@ -144,7 +163,7 @@ Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo
     </tbody>
     <tbody style="text-align:left;">
         <tr >
-            <td><img src="https://cdn.discordapp.com/attachments/906396646886223913/1149023433649307799/image.png" alt="StudiStay" width="1000px"</td>
+            <td><img src="https://cdn.discordapp.com/attachments/906396646886223913/1149023433649307799/image.png" alt="StudiStay" width="1000px"></td>
             <td style="text-align:left;"><b>Trujillo Acosta, Enzo Paolo	</b><br>
 <em>Ingeniería de Software</em><br>
 Soy un estudiante de la carrera de Ingeniería de Software cursando mi 5to ciclo en la Universidad Peruana de Ciencias Aplicadas. Tengo conocimientos en programación en C++, Python y Java. Además, me gusta bastante analizar y resolver problemas usando la lógica. Me comprometo a apoyar a mi equipo en la organización y en cada activa que se nos asigne y estoy dispuesto a aprender y crecer continuamente en mi carrera de ingeniería de software.</td>
@@ -486,6 +505,28 @@ El diseño de entrevista es una gran manera eficaz de conocer a nuestro público
     <br>Enlace de entrevista:
     <br>La entrevista a Britney nos proporcionó información valiosa sobre cuáles son las dificultades y obstáculos que se les presentan a los estudiantes a la hora de buscar prácticas preprofesionales. Algunas de las varias complicaciones que se le presentan son que las empresas sólo ofrecen puestos a estudiantes en último año o recién graduados y otra complicación es que el proceso de solicitud puede ser largo y un poco tedioso. Nos comenta que la empresa tarda en promedio 1 mes en contactarse con ella. La entrevista mostró interés en nuestra aplicación web, destacando que sería muy útil para estudiantes universitarios que buscan prácticas por el hecho de facilitar el proceso de búsqueda de prácticas, y ayudaría a encontrar oportunidades según sus intereses y habilidades.</p>
 
+    <p><b>ENTREVISTA 3</b><br>
+    <u>Datos del entrevistado:</u><br>
+    Nombre: Hairo Tacsa<br>
+    Edad: 21 años<br>
+    Análisis:
+    <br><img src="https://cdn.discordapp.com/attachments/909636343452274689/1149881030820503612/image.png" width="800px">
+    <br>Inicio:                                  
+    <br>Fin: 
+    <br>Enlace de entrevista: https://youtu.be/jHcf6JdaLwc 
+    <br>La entrevista con Hairo proporciona una visión detallada de su experiencia en la búsqueda de prácticas pre profesionales. Además, se evidencia que la falta de respuestas y el estrés asociado, subrayan la necesidad de mejorar la comunicación y la transparencia en el proceso de selección, así como la importancia de contar con una web eficiente que permita gestionar bien las ofertas de trabajo y postulaciones.</p>
+        
+    <p><b>ENTREVISTA 4</b><br>
+    <u>Datos del entrevistado:</u><br>
+    Nombre: Barbara Suares<br>
+    Edad: 19 años<br>
+    Análisis:
+    <br><img src="https://cdn.discordapp.com/attachments/909636343452274689/1149881105344892980/image.png" width="800px">
+    <br>Inicio:                                  
+    <br>Fin: 
+    <br>Enlace de entrevista: https://drive.google.com/file/d/14Mtx_BjIi1V-7oNqPrhxmz8-HcP5Fx3w/view?usp=sharing  
+    <br>La conversación con Barbara ofrece un análisis exhaustivo de su travesía en la búsqueda de prácticas previas a su carrera. Además, se destaca que la ausencia de respuestas y el consiguiente estrés destacan la imperiosa necesidad de mejorar la comunicación y la claridad en el proceso de selección, junto con la importancia de disponer de un sitio web eficaz para gestionar de manera efectiva las ofertas de empleo y las solicitudes.</p>
+
 <br>
 
 - <b>Segmento 2: Empleadores Practicantes</b><br>
@@ -511,6 +552,9 @@ El diseño de entrevista es una gran manera eficaz de conocer a nuestro público
 
 ### 2.2.3. Análisis de entrevistas.
 
+Las entrevistas realizadas tanto a estudiantes en búsqueda de prácticas pre profesionales como a empleadores han arrojado valiosos insights sobre los desafíos inherentes al proceso de selección y colocación de pasantes. Los estudiantes, en su mayoría, se enfrentan a dificultades tales como la exigencia de contar con experiencia previa o recomendaciones, lo que complica su búsqueda, además de lidiar con la lentitud y complejidad en la comunicación con las empresas. Por otro lado, los empleadores han mencionado dificultades en la formulación de preguntas relevantes y la evaluación de candidatos idóneos, así como en el establecimiento de criterios de selección efectivos.
+
+Ambos grupos, sin embargo, han expresado un alto grado de interés en una aplicación que simplifique y optimice la búsqueda y selección de pasantes. Esta aplicación se percibe como una herramienta que podría agilizar las interacciones, alinear mejor a los estudiantes con oportunidades acordes a sus habilidades e intereses, y proporcionar a los empleadores una plataforma estructurada para entrevistas y evaluaciones. En resumen, las entrevistas resaltan la necesidad de una aplicación que aborde los desafíos comunes en la colocación de pasantes, promoviendo una experiencia más eficiente y beneficiosa tanto para estudiantes como para empleadores en el proceso de búsqueda de prácticas pre profesionales
 
 
 ## 2.3. Needfinding.
@@ -1839,7 +1883,44 @@ Se utilizará un sistema de filtros para ambos segmentos. En el caso de usuarios
 
 ### 4.2.5. Navigation Systems.
 
-[![Navigation.png](https://i.postimg.cc/FRFKJv8B/Navigation.png)](https://postimg.cc/f3Fs6Gwc)
+<table align="center"  border="1" width="70%" style="text-align:left;">
+    <tbody >
+        <tr>
+            <td><b>Botones</b></td>
+            <td style="text-align:left;"><b>Funcionalidad</b></td>
+        </tr>
+        <tr>
+            <td>Nosotros</td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Navbar te lleva al apartado de la página web donde brinda información sobre la empresa a los usuarios.</td>
+        </tr>
+        <tr>
+            <td>Servicios</td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Navbar te lleva al apartado de la página web donde explica los servicios que ofrece nuestro aplicativo.</td>
+        </tr>
+        <tr>
+            <td>Iniciar sesión</td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Navbar te lleva al apartado del inicio de sesión, donde el usuario podrá digitar sus datos y entrar a la página.</td>
+        </tr>
+        <tr>
+            <td>Contacto</td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Navbar te lleva al apartado de la Landing Page donde se muestra las formas en las que el usuario puede contactarnos.</td>
+        </tr>
+        <tr>
+            <td>Inicio</td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Footer te lleva a la pantalla principal y superior de la Landing Page.</td>
+        </tr>
+        <tr>
+            <td><img src="https://cdn.discordapp.com/attachments/909636343452274689/1149877930378403911/image.png" width="300px"></td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Footer te lleva a la pantalla principal y superior de la Landing Page.</td>
+        </tr>
+        <tr>
+            <td><img src="https://cdn.discordapp.com/attachments/909636343452274689/1149877896903663646/image.png" width="200px"></td>
+            <td colspan="" style="text-align:left;">Este botón ubicado en el Hero recorre las demás imágenes que muestran información en la pantalla principal de la Landing Page.</td>
+        </tr>
+        </tbody>
+</table>
+
+<br>
 
 ## 4.3. Landing Page UI Design.
 
