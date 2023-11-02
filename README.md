@@ -3016,62 +3016,302 @@ Se utilizará el servicio de Netlify (https://www.netlify.com/ ) para realizar e
 
 Durante el primer sprint, no se llevaron a cabo pruebas en la aplicación debido a que nuestra labor se centró exclusivamente en la creación de la página de inicio.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-
-A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y el framework Bootstrap.
-
-
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486687873929307/image.png" width="800px">
+## <a name="_tjigaafxr9me"></a>5.2. Landing Page, Services & Applications Implementation.
+### <a name="_85z6epd4th0i"></a>5.2.1. Sprint 1
+#### 5\.2.1.1. Sprint Planning 1.
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486750285172816/image.png" width="800px">
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486785672527892/image.png" width="800px">
+
+|<a name="_wjued6e6umxr"></a><a name="_hy62ndxc5bkf"></a><a name="_hkew2zyp61c4"></a><a name="_zamllpsp8jqp"></a>**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Backlog**||
+|**Date**|4/09/2023|
+|**Time**|22:00 horas (GMT -5)|
+|**Location**|Modalidad remota a través de plataforma Discord|
+|**Prepared by**|Trujillo, Enzo|
+|**Attendees (to planning meeting)**|Todos los miembros de PractiFinder|
+|**Sprint n - 1 Review Summary**|Se creará la organización de PractiFinder en Github y el repositorio de la organización. Además, se implementará el single page landing page.|
+|**Sprint n - 1 Retrospective Summary**|La implementación para el landing se ha realizado con el framework Bootstrap. |
+|**Sprint Goal and User Stories**||
+|**Sprint 1 Velocity**|5|
+|**Sum of Story Points**|**8**|
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486830929068142/image.png" width="800px">
+#### <a name="_p8tlvnxzccnk"></a><a name="_2fnywyr9uz3i"></a>5.2.1.2. Sprint Backlog 1.
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.001.png)
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486863325863966/image.png" width="800px">
+<table><tr><th valign="top"><a name="_to7ygg2h3dfq"></a><a name="_wrnefxosh1yj"></a><b>Sprint 1</b></th><th colspan="7" valign="top"><b>Sprint 1</b></th></tr>
+<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work – Item / Task</b></td></tr>
+<tr><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Id</b></td><td valign="top"><b>Title</b></td><td valign="top"><b>Description</b></td><td valign="top"><b>Estimation (Hours)</b></td><td valign="top"><b>Assigned To</b></td><td valign="top"><b>Status (To-do / In– Process / To-Review / Done)</b></td></tr>
+<tr><td rowspan="2" valign="top">US28</td><td rowspan="2" valign="top">Barra de navegación en landing page</td><td valign="top">E1-US28</td><td valign="top">Navbar </td><td valign="top">Implementación navbar</td><td valign="top">3 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US28</td><td valign="top">Responsive design navbar</td><td valign="top">Responsive design de navbar </td><td valign="top">4 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US30</td><td valign="top">Sección hero de landing page</td><td valign="top">E1-US30</td><td valign="top">Desarrollo de interfaz gráfica </td><td valign="top">Creación del diseño preliminar de la interfaz gráfica.</td><td valign="top">2 hours</td><td valign="top">Luis</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US31</td><td rowspan="2" valign="top">Sección servicios en el landing page</td><td valign="top">E1-US31</td><td valign="top">Desarrollo de servicios section </td><td valign="top">Implementar servicios de la aplicación</td><td valign="top">2 hours</td><td valign="top">Rafael</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US31</td><td valign="top">Responsive design servicios</td><td valign="top">Responsive design de specialities</td><td valign="top">2 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US32</td><td rowspan="2" valign="top">Sección de testimonios en el landing page</td><td valign="top">E1-US32</td><td valign="top">Testimonial section</td><td valign="top">Implementar sección de testimonios</td><td valign="top">3 hours</td><td valign="top">Rafael</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US32</td><td valign="top">Responsive design testimonials</td><td valign="top">Responsive design de testimonials</td><td valign="top">2 hours</td><td valign="top">Enzo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">US33</td><td rowspan="2" valign="top">Sección de invitación a la aplicación en landing page</td><td valign="top">E1-US33</td><td valign="top">PreFooter section</td><td valign="top">Implementar de prefooter</td><td valign="top">2 hours</td><td valign="top">Luis</td><td valign="top">Done</td></tr>
+<tr><td valign="top">E1-US33</td><td valign="top">Responsive design prefooter section</td><td valign="top">Responsive design de prefooter</td><td valign="top">2 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+<tr><td valign="top">US34</td><td valign="top">Sección de footer a la aplicación en landing page</td><td valign="top">E1-US34</td><td valign="top">Footer section</td><td valign="top">Implementar sección de footer con responsive design</td><td valign="top">0\.5 hours</td><td valign="top">Johan</td><td valign="top">Done</td></tr>
+</table>
+
+#### <a name="_ezph51pdda58"></a><a name="_fyoo6spug9he"></a>5.2.1.3. Development Evidence for Sprint Review.
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486884402233414/image.png" width="800px">
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|<p>Commited</p><p>on (Date)</p>|
+| :- | :- | :- | :- | :- | :- |
+|landing-page|feature/navbar|72e24ce|fix: navbar issue fixed|-|04/09/2023|
+|landing-page|developer|c4707a9|Update Service|-|04/09/2023|
+
+#### <a name="_zh5o5pg2plv7"></a><a name="_wcll2qrt40i3"></a>5.2.1.4. Testing Suite Evidence for Sprint Review.
+<a name="_5fdxfye7ggrb"></a>Durante el primer sprint, no se llevaron a cabo pruebas en la aplicación debido a que nuestra labor se centró exclusivamente en la creación de la página de inicio.
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486932057931846/image.png" width="800px">
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|<p>Commited</p><p>on (Date)</p>|
+| :- | :- | :- | :- | :- | :- |
+|||||||
+#### <a name="_ps605m9lueck"></a>5.2.1.5. Execution Evidence for Sprint Review.
+<a name="_j24355lgn600"></a>A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y el framework Bootstrap.
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.002.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.003.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.004.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.005.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.006.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.007.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.008.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.009.png)
+
+#### <a name="_t4u3aee1nbnx"></a><a name="_gotzv564si4u"></a><a name="_lfvrat9zw7ei"></a><a name="_z2uif158q8rg"></a><a name="_yiwh3ofaeeta"></a><a name="_6noixeo0dwd2"></a><a name="_ds58wp3cdw9m"></a><a name="_e8buwxhpofvo"></a><a name="_cb1c3awgrh0n"></a>5.2.1.6. Services Documentation Evidence for Sprint Review.
+<a name="_sobnq0o5h6ga"></a>Durante este sprint específico, no hemos empleado servicios web, ya que nuestro enfoque se ha centrado únicamente en la creación de la página de inicio estática. Como resultado, en esta presentación no se incluye documentación relacionada con el uso de servicios web.
+#### <a name="_2sfx4kqw65gv"></a>5.2.1.7. Software Deployment Evidence for Sprint Review.
+<a name="_iwg8bsk0dkqq"></a>Hasta el momento, no hemos empleado servicios web en el proceso de desarrollo de la página de inicio. Por lo tanto, no se han registrado actividades como la creación de cuentas, configuración de recursos en proveedores de servicios en la nube, establecimiento de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras.
+
+<a name="_qaxuezyakmhr"></a>Con respecto al despliegue de la página de inicio, esta se ha realizado en la plataforma de Netlify. El siguiente enlace corresponde a la página de inicio: <https://practifinder-upc.netlify.app>  . A continuación, se presentan algunas capturas del servicio de despliegue con Netlify.
+
+<a name="_nlbz2jxgby0j"></a>Estado de deployment de la página:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.010.png)
+
+<a name="_t8psexrsw8uj"></a><a name="_wo0swypnpqgh"></a>Deploys con registros de commits en Github:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.011.png)
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149486973422145598/image.png" width="800px">
+#### <a name="_3u3s2wuppbe5"></a><a name="_svzrzc86qcyj"></a><a name="_w2wc5xqkizis"></a><a name="_hu3g5j2omddv"></a>5.2.1.8. Team Collaboration Insights during Sprint.
+<a name="_5exhq1ecjj1w"></a>A continuación se presentan capturas de los insights del repositorio del landing page
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+<a name="_98lk28f5jph3"></a>en Github
 
-Durante este sprint específico, no hemos empleado servicios web, ya que nuestro enfoque se ha centrado únicamente en la creación de la página de inicio estática. Como resultado, en esta presentación no se incluye documentación relacionada con el uso de servicios web.
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.012.png)
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.013.png)
+### <a name="_za6y2obv76b7"></a><a name="_y35xrxso0xts"></a><a name="_c6q5geos3p7h"></a>5.2.2. Sprint 2
 
-Hasta el momento, no hemos empleado servicios web en el proceso de desarrollo de la página de inicio. Por lo tanto, no se han registrado actividades como la creación de cuentas, configuración de recursos en proveedores de servicios en la nube, establecimiento de proyectos de desarrollo para la integración o automatización de tareas de implementación, entre otras.<br>
-Con respecto al despliegue de la página de inicio, esta se ha realizado en la plataforma de Netlify. El siguiente enlace corresponde a la página de inicio: https://medmeet.netlify.app/. A continuación, se presentan algunas capturas del servicio de despliegue con Netlify.<br>
-
-Estado de deployment de la página:
-
-[![deply1.png](https://i.postimg.cc/90yL01Qm/deply1.png)](https://postimg.cc/645r1rZg)
-
-Deploys con registros de commits en Github:
-
-<img src="https://cdn.discordapp.com/attachments/909636343452274689/1149506629201559672/image.png" width="800px">
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-
-A continuación se presentan capturas de los insights del repositorio del landing page
-en Github
+#### <a name="_5ncwqvjvuzo1"></a>5.2.2.1.Sprint Planning 2.
 
 
-<img src="https://cdn.discordapp.com/attachments/906396646886223913/1149484542923657266/image.png" width="800px">
 
-<img src="https://cdn.discordapp.com/attachments/909636564529852427/1149505239913869342/image.png" width="800px">
+|Sprint 2|Implementación de la primera versión del Front-End|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|25/09/2023|
+|Time|15:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By |Trujillo Acosta, Enzo Paolo|
+|<p>Attendees (to planning</p><p>meeting)</p>|Todos los miembros de PractiFinder|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Realizar y desplegar el Front-End|
+|Sprint 2 Velocity|70|
+|Sum of Story Points|65|
 
-<br><br>
+
+
+
+
+#### <a name="_kcnf60tjaj6x"></a>5.2.2.2.Sprint Backlog 2.
+
+
+
+|Sprint #|Sprint 2|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story |Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p><p></p>|Assigned To|<p>Status</p><p>(To-do /</p><p>InProcess /</p><p>ToReview /</p><p>Done)</p>|
+|SSF01|View Login|SF01|View Login (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Login, con sus estilos correspondientes |5|Johan|Done |
+|SSF02|View Register|SF02|View Register (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Register, con sus estilos correspondientes |5|Johan|Done|
+|SSF03|View Inicio|SF03|View Inicio (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Inicio, con sus estilos correspondientes |8|Luis Alejo|Done|
+|SSF04|View Profile|SF04|View Profile (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Profile, con sus estilos correspondientes|8|Enzo Trujillo|Done|
+|SSF05|View Soporte|SF05|View Soporte (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Soporte, con sus estilos correspondientes|5|Rafael|Done|
+|SSF06|View Postulaciones|SF06|View Detalles (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Detalles, con sus estilos correspondientes|5|Rafael|Done|
+|SSF07|View Notificaciones|SF07|View Notificaciones (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Notificaciones, con sus estilos correspondientes|-|<p>- Rafael</p><p>- Johan</p>|In process|
+|SSF08|View Chat-Box|SF08|View Chat-Box (Desarrollado con el Framework Angular)|Desarrollo e implementación de la vista Chat-Box, con sus estilos correspondientes|-|<p>- Luis Alejo</p><p>- Enzo Trujillo</p>|In process|
+
+
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.014.png)
+
+Link del trello: <https://trello.com/b/Z5T3dV24/sprint-2> 
+
+
+#### <a name="_g300qh49g1dt"></a>5.2.2.3. Development Evidence for Sprint Review.
+
+
+
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|<p>Commited</p><p>on (Date)</p>|
+| :- | :- | :- | :- | :- | :- |
+|webServicePractiFinder|develop|4bd03c8|<p>feat: add Inicio</p><p></p>|-|26/09/2023|
+|webServicePractiFinder|feature/profile|3d0b4f4|feat: fixed added|-|26/09/2023|
+|webServicePractiFinder|feature/login-register|b8c47f3|feat: add login-register|-|26/09/2023|
+|webServicePractiFinder|feature/soporte-postulaciones|4650f1e|feat: add soporte-postulacion|-|26/09/2023|
+
+#### <a name="_1q444omyeqo7"></a>5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+Para el testing de nuestro front-end nos decidimos por usar la extensión Lighthouse la cual es una herramienta de código abierto desarrollada por Google que se utiliza para evaluar y mejorar el rendimiento, la accesibilidad, la optimización para motores de búsqueda (SEO) y las buenas prácticas generales de un sitio web. Lighthouse se integra en el navegador web Google Chrome y ofrece una serie de auditorías automáticas que analizan diferentes aspectos de un sitio web y proporcionan sugerencias específicas para mejorar su rendimiento y usabilidad.
+
+Aquí los resultados de nuestro testeo: 
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.015.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.016.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.017.png)
+
+En resumen nuestra página ha obtenido los siguientes resultados:
+
+Rendimiento: 69
+
+Accesibilidad: 100
+
+Buenas Prácticas: 100
+
+SEO: 83
+
+PWA: 69
+
+
+`	`**Cosas que están bien:**
+
+**-Accesibilidad:** Obtuvo una puntuación perfecta de 100, lo que indica que nuestra página es altamente accesible para personas con discapacidades.
+
+**-Buenas Prácticas:** También obtuvo una puntuación perfecta de 100, lo que sugiere que siguemos prácticas recomendadas en el desarrollo web.
+
+**Cosas que pueden mejorar:**
+
+**-Rendimiento:** La puntuación es 69, lo que indica que hay margen para mejorar la velocidad de carga. Se sugiere reducir el uso de JavaScript no utilizado y optimizar el tiempo de ejecución de JavaScript.
+
+**-SEO:** La puntuación es 83, lo que significa que hay algunos aspectos de optimización para motores de búsqueda que podrían mejorarse. Se recomienda revisar y ajustar elementos como etiquetas de título, descripciones y encabezados.
+
+**-PWA:** La puntuación es 69, lo que sugiere que hay oportunidades para mejorar las	características de Aplicación Web Progresiva.
+
+
+#### <a name="_wpl3x9ggfc4g"></a>5.2.2.5.Execution Evidence for Sprint Review.
+
+
+
+`	`Inicio de sesión:
+`		`![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.018.png)	
+
+Recuperar contraseña:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.019.png)
+
+Registrarse:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.020.png)
+
+
+
+
+
+
+
+Pantalla principal:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.021.png)
+
+Perfil:
+`			`![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.022.png)
+
+
+
+Mis postulaciones:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.023.png)
+
+Soporte:
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.024.png)
+
+#### <a name="_bivnjie252d7"></a>5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+
+Para este Sprint realizado, se hizo únicamente la implementación de la sección Front-end de nuestro proyecto, por lo que no se incluyó este punto.
+
+
+#### <a name="_clcpu6o422eb"></a>5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+El despliegue se realizó en la plataforma Firebase. Firebase, de Google, es una plataforma en la nube para desarrollo web y móvil. Proporciona servicios como bases de datos en tiempo real, autenticación de usuarios y alojamiento web. Al desplegar en Firebase, se aprovecha la infraestructura segura y escalable de Google. Firebase Hosting simplifica el alojamiento de aplicaciones web. Sus ventajas incluyen infraestructura confiable, autenticación segura, base de datos en tiempo real y herramientas para desarrollo y mejora de la experiencia del usuario, además de análisis y monitoreo.
+
+
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.025.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.026.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.027.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.028.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.029.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.030.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.031.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.032.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.033.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.034.png)
+
+`	`![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.035.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.036.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.037.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.038.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.039.png)
+
+
+
+#### <a name="_hclkqzoi0c78"></a>5.2.2.8.Team Collaboration Insights during Sprint.
+
+
+Para la realización de los commits de nuestro segundo Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.040.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.041.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.042.png)
+
+![](img/Aspose.Words.18e37b66-a344-4141-b664-f9f3c0299bb9.043.png)
+
 
 **Conclusiones:**
 
